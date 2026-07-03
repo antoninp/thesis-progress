@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-07-03T07:52:47+00:00",
-  "generated_at_nz": "2026-07-03T19:52:34+12:00",
+  "generated_at_utc": "2026-07-03T08:10:24+00:00",
+  "generated_at_nz": "2026-07-03T20:10:08+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -50,12 +50,12 @@
     "this_week_percent": 126,
     "week_start": "2026-06-29",
     "plan_chapter": "ch2 Literature Review",
-    "hours_total": 110.4,
-    "hours_this_week": 20.9,
+    "hours_total": 110.6,
+    "hours_this_week": 21.2,
     "words_per_hour": 78,
     "hours_latex_total": 11.5,
     "hours_system_total": 78.4,
-    "hours_combined_total": 147.6
+    "hours_combined_total": 147.8
   },
   "chapters": [
     {
@@ -947,7 +947,7 @@
     },
     {
       "date": "2026-07-03",
-      "added": 201,
+      "added": 236,
       "removed": 8
     }
   ],
@@ -1106,7 +1106,7 @@
     },
     {
       "date": "2026-07-03",
-      "hours": 2.25
+      "hours": 2.5
     }
   ],
   "daily_hours_latex": [
@@ -1580,7 +1580,7 @@
     },
     {
       "date": "2026-07-03",
-      "hours": 2.5
+      "hours": 2.75
     }
   ],
   "timeline": [
