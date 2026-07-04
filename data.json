@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-07-04T05:40:20+00:00",
-  "generated_at_nz": "2026-07-04T17:40:07+12:00",
+  "generated_at_utc": "2026-07-04T05:55:14+00:00",
+  "generated_at_nz": "2026-07-04T17:55:06+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -17,45 +17,45 @@
     "chapter_max": 7000
   },
   "totals": {
-    "words": 9040,
-    "final_words": 10564,
+    "words": 9068,
+    "final_words": 10599,
     "inflation_ratio": 1.169,
-    "percent_of_target": 35.2,
-    "percent_final_of_30k": 35.2,
-    "words_remaining": 16632,
-    "final_remaining": 19436,
-    "prose_target": 25672,
-    "prose_target_high": 29951,
+    "percent_of_target": 35.3,
+    "percent_final_of_30k": 35.3,
+    "words_remaining": 16599,
+    "final_remaining": 19401,
+    "prose_target": 25667,
+    "prose_target_high": 29944,
     "days_to_supervisor": 104,
     "days_to_final": 132,
-    "required_wpw_supervisor": 1119,
-    "required_wpw_final": 882,
-    "velocity_7d_wpw": 2706,
-    "velocity_14d_wpw": 1376,
-    "velocity_28d_wpw": 1701,
+    "required_wpw_supervisor": 1117,
+    "required_wpw_final": 880,
+    "velocity_7d_wpw": 2734,
+    "velocity_14d_wpw": 1390,
+    "velocity_28d_wpw": 1708,
     "projected_finish": "2026-09-10",
     "buffer_days": 36,
-    "pace_margin_wpw": 582,
-    "pace_ratio": 1.52,
+    "pace_margin_wpw": 591,
+    "pace_ratio": 1.53,
     "on_track": true,
     "verdict": "catching_up",
     "plan_start": "2026-04-27",
-    "plan_expected_today": 10149,
-    "behind_words": -1109,
-    "behind_days": -7.4,
-    "plan_catchup_date": "2026-07-16",
-    "plan_catchup_words": 11916,
-    "this_week_added": 2084,
+    "plan_expected_today": 10147,
+    "behind_words": -1079,
+    "behind_days": -7.2,
+    "plan_catchup_date": "2026-07-15",
+    "plan_catchup_words": 11847,
+    "this_week_added": 2112,
     "this_week_goal": 1300,
-    "this_week_percent": 160,
+    "this_week_percent": 162,
     "week_start": "2026-06-29",
     "plan_chapter": "ch2 Literature Review",
-    "hours_total": 115.1,
-    "hours_this_week": 25.7,
+    "hours_total": 115.3,
+    "hours_this_week": 25.9,
     "words_per_hour": 79,
     "hours_latex_total": 11.5,
-    "hours_system_total": 81.6,
-    "hours_combined_total": 153.8
+    "hours_system_total": 81.9,
+    "hours_combined_total": 154.1
   },
   "chapters": [
     {
@@ -75,16 +75,16 @@
     {
       "key": "ch2",
       "title": "Literature Review",
-      "prose_words": 2754,
-      "citations": 104,
-      "render_words": 343,
-      "words": 3097,
+      "prose_words": 2782,
+      "citations": 106,
+      "render_words": 350,
+      "words": 3132,
       "latex_prose": 2,
       "latex_render": 0,
       "latex_words": 2,
       "floor": 6000,
       "max": 7000,
-      "percent_of_floor": 51.6
+      "percent_of_floor": 52.2
     },
     {
       "key": "ch3",
@@ -606,11 +606,11 @@
     },
     {
       "date": "2026-07-04",
-      "prose": 9040,
-      "final": 10564,
+      "prose": 9068,
+      "final": 10599,
       "chapters": {
         "ch1": 7467,
-        "ch2": 3097,
+        "ch2": 3132,
         "ch3": 0,
         "ch4": 0,
         "ch5": 0
@@ -772,7 +772,7 @@
     },
     {
       "date": "2026-07-04",
-      "added": 445
+      "added": 473
     }
   ],
   "daily_churn": [
@@ -968,7 +968,7 @@
     },
     {
       "date": "2026-07-04",
-      "added": 458,
+      "added": 495,
       "removed": 50
     }
   ],
@@ -1131,7 +1131,7 @@
     },
     {
       "date": "2026-07-04",
-      "hours": 4.49
+      "hours": 4.74
     }
   ],
   "daily_hours_latex": [
@@ -1455,7 +1455,7 @@
     },
     {
       "date": "2026-07-04",
-      "hours": 3.25
+      "hours": 3.5
     }
   ],
   "daily_hours_combined": [
@@ -1617,7 +1617,7 @@
     },
     {
       "date": "2026-07-04",
-      "hours": 6.0
+      "hours": 6.25
     }
   ],
   "timeline": [
