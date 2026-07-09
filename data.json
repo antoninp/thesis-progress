@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-07-09T06:55:23+00:00",
-  "generated_at_nz": "2026-07-09T18:55:10+12:00",
+  "generated_at_utc": "2026-07-09T06:59:33+00:00",
+  "generated_at_nz": "2026-07-09T18:59:27+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -54,8 +54,8 @@
     "hours_this_week": 16.4,
     "words_per_hour": 80,
     "hours_latex_total": 11.5,
-    "hours_system_total": 90.8,
-    "hours_combined_total": 174.3
+    "hours_system_total": 91.1,
+    "hours_combined_total": 174.5
   },
   "chapters": [
     {
@@ -1620,7 +1620,7 @@
     },
     {
       "date": "2026-07-09",
-      "hours": 0.25
+      "hours": 0.5
     }
   ],
   "daily_hours_combined": [
@@ -1802,7 +1802,7 @@
     },
     {
       "date": "2026-07-09",
-      "hours": 0.25
+      "hours": 0.5
     }
   ],
   "timeline": [
@@ -1931,169 +1931,6 @@
       "has_data": false,
       "generated_at": null,
       "source": null
-    },
-    "quotas": {
-      "region": [
-        {
-          "label": "Auckland",
-          "count": 0,
-          "target": 133,
-          "needed": 133,
-          "pct": 0
-        },
-        {
-          "label": "Canterbury",
-          "count": 0,
-          "target": 52,
-          "needed": 52,
-          "pct": 0
-        },
-        {
-          "label": "Wellington",
-          "count": 0,
-          "target": 42,
-          "needed": 42,
-          "pct": 0
-        },
-        {
-          "label": "Waikato",
-          "count": 0,
-          "target": 41,
-          "needed": 41,
-          "pct": 0
-        },
-        {
-          "label": "Bay of Plenty",
-          "count": 0,
-          "target": 28,
-          "needed": 28,
-          "pct": 0
-        },
-        {
-          "label": "Manawatu-Whanganui",
-          "count": 0,
-          "target": 20,
-          "needed": 20,
-          "pct": 0
-        },
-        {
-          "label": "Otago",
-          "count": 0,
-          "target": 20,
-          "needed": 20,
-          "pct": 0
-        },
-        {
-          "label": "Northland",
-          "count": 0,
-          "target": 16,
-          "needed": 16,
-          "pct": 0
-        },
-        {
-          "label": "Hawke's Bay",
-          "count": 0,
-          "target": 14,
-          "needed": 14,
-          "pct": 0
-        },
-        {
-          "label": "Taranaki",
-          "count": 0,
-          "target": 10,
-          "needed": 10,
-          "pct": 0
-        },
-        {
-          "label": "Southland",
-          "count": 0,
-          "target": 8,
-          "needed": 8,
-          "pct": 0
-        },
-        {
-          "label": "Tasman",
-          "count": 0,
-          "target": 4,
-          "needed": 4,
-          "pct": 0
-        },
-        {
-          "label": "Nelson",
-          "count": 0,
-          "target": 4,
-          "needed": 4,
-          "pct": 0
-        },
-        {
-          "label": "Marlborough",
-          "count": 0,
-          "target": 4,
-          "needed": 4,
-          "pct": 0
-        },
-        {
-          "label": "Gisborne",
-          "count": 0,
-          "target": 4,
-          "needed": 4,
-          "pct": 0
-        },
-        {
-          "label": "West Coast",
-          "count": 0,
-          "target": 2,
-          "needed": 2,
-          "pct": 0
-        }
-      ],
-      "age": [
-        {
-          "label": "18-24",
-          "count": 0,
-          "target": 48,
-          "needed": 48,
-          "pct": 0
-        },
-        {
-          "label": "25-34",
-          "count": 0,
-          "target": 76,
-          "needed": 76,
-          "pct": 0
-        },
-        {
-          "label": "35-44",
-          "count": 0,
-          "target": 68,
-          "needed": 68,
-          "pct": 0
-        },
-        {
-          "label": "45-54",
-          "count": 0,
-          "target": 64,
-          "needed": 64,
-          "pct": 0
-        },
-        {
-          "label": "55-64",
-          "count": 0,
-          "target": 60,
-          "needed": 60,
-          "pct": 0
-        },
-        {
-          "label": "65 and over",
-          "count": 0,
-          "target": 84,
-          "needed": 84,
-          "pct": 0
-        }
-      ]
-    },
-    "by_day": {},
-    "screening": {},
-    "unmatched": {}
+    }
   }
 }
