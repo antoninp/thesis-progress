@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-07-14T23:40:16+00:00",
-  "generated_at_nz": "2026-07-15T11:40:05+12:00",
+  "generated_at_utc": "2026-07-26T05:11:57+00:00",
+  "generated_at_nz": "2026-07-26T17:11:38+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -26,36 +26,36 @@
     "final_remaining": 17564,
     "prose_target": 25757,
     "prose_target_high": 30049,
-    "days_to_supervisor": 93,
-    "days_to_final": 121,
-    "required_wpw_supervisor": 1135,
-    "required_wpw_final": 872,
+    "days_to_supervisor": 82,
+    "days_to_final": 110,
+    "required_wpw_supervisor": 1287,
+    "required_wpw_final": 960,
     "velocity_7d_wpw": 0,
-    "velocity_14d_wpw": 1204,
-    "velocity_28d_wpw": 1098,
-    "projected_finish": "2026-10-19",
-    "buffer_days": -3,
-    "pace_margin_wpw": -37,
-    "pace_ratio": 0.97,
+    "velocity_14d_wpw": 0,
+    "velocity_28d_wpw": 930,
+    "projected_finish": "2026-11-16",
+    "buffer_days": -31,
+    "pace_margin_wpw": -357,
+    "pace_ratio": 0.72,
     "on_track": false,
     "verdict": "behind",
     "plan_start": "2026-04-27",
-    "plan_expected_today": 11830,
-    "behind_words": -1153,
-    "behind_days": -7.7,
-    "plan_catchup_date": "2026-12-23",
-    "plan_catchup_words": 36008,
+    "plan_expected_today": 13478,
+    "behind_words": -2801,
+    "behind_days": -18.7,
+    "plan_catchup_date": null,
+    "plan_catchup_words": null,
     "this_week_added": 0,
     "this_week_goal": 1300,
     "this_week_percent": 0,
-    "week_start": "2026-07-13",
+    "week_start": "2026-07-20",
     "plan_chapter": "ch3 Methodology",
     "hours_total": 133.5,
     "hours_this_week": 0,
     "words_per_hour": 80,
     "hours_latex_total": 11.5,
-    "hours_system_total": 116.2,
-    "hours_combined_total": 199.7
+    "hours_system_total": 116.5,
+    "hours_combined_total": 199.9
   },
   "chapters": [
     {
@@ -747,6 +747,138 @@
         "ch4": 0,
         "ch5": 0
       }
+    },
+    {
+      "date": "2026-07-16",
+      "prose": 10677,
+      "final": 12436,
+      "chapters": {
+        "ch1": 7467,
+        "ch2": 4969,
+        "ch3": 0,
+        "ch4": 0,
+        "ch5": 0
+      }
+    },
+    {
+      "date": "2026-07-17",
+      "prose": 10677,
+      "final": 12436,
+      "chapters": {
+        "ch1": 7467,
+        "ch2": 4969,
+        "ch3": 0,
+        "ch4": 0,
+        "ch5": 0
+      }
+    },
+    {
+      "date": "2026-07-18",
+      "prose": 10677,
+      "final": 12436,
+      "chapters": {
+        "ch1": 7467,
+        "ch2": 4969,
+        "ch3": 0,
+        "ch4": 0,
+        "ch5": 0
+      }
+    },
+    {
+      "date": "2026-07-19",
+      "prose": 10677,
+      "final": 12436,
+      "chapters": {
+        "ch1": 7467,
+        "ch2": 4969,
+        "ch3": 0,
+        "ch4": 0,
+        "ch5": 0
+      }
+    },
+    {
+      "date": "2026-07-20",
+      "prose": 10677,
+      "final": 12436,
+      "chapters": {
+        "ch1": 7467,
+        "ch2": 4969,
+        "ch3": 0,
+        "ch4": 0,
+        "ch5": 0
+      }
+    },
+    {
+      "date": "2026-07-21",
+      "prose": 10677,
+      "final": 12436,
+      "chapters": {
+        "ch1": 7467,
+        "ch2": 4969,
+        "ch3": 0,
+        "ch4": 0,
+        "ch5": 0
+      }
+    },
+    {
+      "date": "2026-07-22",
+      "prose": 10677,
+      "final": 12436,
+      "chapters": {
+        "ch1": 7467,
+        "ch2": 4969,
+        "ch3": 0,
+        "ch4": 0,
+        "ch5": 0
+      }
+    },
+    {
+      "date": "2026-07-23",
+      "prose": 10677,
+      "final": 12436,
+      "chapters": {
+        "ch1": 7467,
+        "ch2": 4969,
+        "ch3": 0,
+        "ch4": 0,
+        "ch5": 0
+      }
+    },
+    {
+      "date": "2026-07-24",
+      "prose": 10677,
+      "final": 12436,
+      "chapters": {
+        "ch1": 7467,
+        "ch2": 4969,
+        "ch3": 0,
+        "ch4": 0,
+        "ch5": 0
+      }
+    },
+    {
+      "date": "2026-07-25",
+      "prose": 10677,
+      "final": 12436,
+      "chapters": {
+        "ch1": 7467,
+        "ch2": 4969,
+        "ch3": 0,
+        "ch4": 0,
+        "ch5": 0
+      }
+    },
+    {
+      "date": "2026-07-26",
+      "prose": 10677,
+      "final": 12436,
+      "chapters": {
+        "ch1": 7467,
+        "ch2": 4969,
+        "ch3": 0,
+        "ch4": 0,
+        "ch5": 0
+      }
     }
   ],
   "daily_added": [
@@ -948,6 +1080,50 @@
     },
     {
       "date": "2026-07-15",
+      "added": 0
+    },
+    {
+      "date": "2026-07-16",
+      "added": 0
+    },
+    {
+      "date": "2026-07-17",
+      "added": 0
+    },
+    {
+      "date": "2026-07-18",
+      "added": 0
+    },
+    {
+      "date": "2026-07-19",
+      "added": 0
+    },
+    {
+      "date": "2026-07-20",
+      "added": 0
+    },
+    {
+      "date": "2026-07-21",
+      "added": 0
+    },
+    {
+      "date": "2026-07-22",
+      "added": 0
+    },
+    {
+      "date": "2026-07-23",
+      "added": 0
+    },
+    {
+      "date": "2026-07-24",
+      "added": 0
+    },
+    {
+      "date": "2026-07-25",
+      "added": 0
+    },
+    {
+      "date": "2026-07-26",
       "added": 0
     }
   ],
@@ -1201,6 +1377,61 @@
       "date": "2026-07-15",
       "added": 0,
       "removed": 0
+    },
+    {
+      "date": "2026-07-16",
+      "added": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-07-17",
+      "added": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-07-18",
+      "added": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-07-19",
+      "added": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-07-20",
+      "added": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-07-21",
+      "added": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-07-22",
+      "added": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-07-23",
+      "added": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-07-24",
+      "added": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-07-25",
+      "added": 0,
+      "removed": 0
+    },
+    {
+      "date": "2026-07-26",
+      "added": 0,
+      "removed": 0
     }
   ],
   "daily_hours": [
@@ -1406,6 +1637,50 @@
     },
     {
       "date": "2026-07-15",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-16",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-17",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-18",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-19",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-20",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-21",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-22",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-23",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-24",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-25",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-26",
       "hours": 0.0
     }
   ],
@@ -1613,6 +1888,50 @@
     {
       "date": "2026-07-15",
       "hours": 0.0
+    },
+    {
+      "date": "2026-07-16",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-17",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-18",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-19",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-20",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-21",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-22",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-23",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-24",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-25",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-26",
+      "hours": 0.0
     }
   ],
   "daily_hours_system": [
@@ -1818,6 +2137,50 @@
     },
     {
       "date": "2026-07-15",
+      "hours": 0.25
+    },
+    {
+      "date": "2026-07-16",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-17",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-18",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-19",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-20",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-21",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-22",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-23",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-24",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-25",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-26",
       "hours": 0.0
     }
   ],
@@ -2024,6 +2387,50 @@
     },
     {
       "date": "2026-07-15",
+      "hours": 0.25
+    },
+    {
+      "date": "2026-07-16",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-17",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-18",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-19",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-20",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-21",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-22",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-23",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-24",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-25",
+      "hours": 0.0
+    },
+    {
+      "date": "2026-07-26",
       "hours": 0.0
     }
   ],
@@ -2084,7 +2491,7 @@
       "chapter": "ch2",
       "start": "2026-05-31",
       "planned_end": "2026-07-04",
-      "end": "2026-07-15",
+      "end": "2026-07-26",
       "actual_start": "2026-06-23",
       "status": "overdue"
     },
@@ -2141,17 +2548,17 @@
   },
   "data_collection": {
     "headline": {
-      "total": 4,
+      "total": 26,
       "target": 400,
       "floor": 385,
-      "percent": 1.0,
-      "days_left": 25,
+      "percent": 6.5,
+      "days_left": 14,
       "start": "2026-07-09",
       "end": "2026-08-09",
-      "pace_per_day": 0.6,
-      "projected": 19,
+      "pace_per_day": null,
+      "projected": 26,
       "has_data": true,
-      "generated_at": "2026-07-15T11:40:09+12:00",
+      "generated_at": "2026-07-26T17:11:49+12:00",
       "source": "sheet"
     }
   }
