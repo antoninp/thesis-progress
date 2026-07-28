@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-07-28T22:10:28+00:00",
-  "generated_at_nz": "2026-07-29T10:10:10+12:00",
+  "generated_at_utc": "2026-07-28T22:25:23+00:00",
+  "generated_at_nz": "2026-07-29T10:25:06+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -54,8 +54,8 @@
     "hours_this_week": 0,
     "words_per_hour": 80,
     "hours_latex_total": 11.5,
-    "hours_system_total": 125.6,
-    "hours_combined_total": 209.1
+    "hours_system_total": 125.9,
+    "hours_combined_total": 209.3
   },
   "chapters": [
     {
@@ -2280,7 +2280,7 @@
     },
     {
       "date": "2026-07-29",
-      "hours": 0.49
+      "hours": 0.74
     }
   ],
   "daily_hours_combined": [
@@ -2542,7 +2542,7 @@
     },
     {
       "date": "2026-07-29",
-      "hours": 0.49
+      "hours": 0.74
     }
   ],
   "timeline": [
@@ -2669,7 +2669,7 @@
       "pace_per_day": 0.3,
       "projected": 31,
       "has_data": true,
-      "generated_at": "2026-07-29T10:10:17+12:00",
+      "generated_at": "2026-07-29T10:25:13+12:00",
       "source": "sheet"
     }
   }
