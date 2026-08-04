@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-08-04T02:10:48+00:00",
-  "generated_at_nz": "2026-08-04T14:10:15+12:00",
+  "generated_at_utc": "2026-08-04T02:25:43+00:00",
+  "generated_at_nz": "2026-08-04T14:25:13+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -58,8 +58,8 @@
     "hours_this_week": 2.0,
     "words_per_hour": 79,
     "hours_latex_total": 11.5,
-    "hours_system_total": 168.2,
-    "hours_combined_total": 251.6
+    "hours_system_total": 109.9,
+    "hours_combined_total": 194.6
   },
   "chapters": [
     {
@@ -2378,31 +2378,31 @@
     },
     {
       "date": "2026-07-09",
-      "hours": 1.99
+      "hours": 1.0
     },
     {
       "date": "2026-07-10",
-      "hours": 6.72
+      "hours": 2.74
     },
     {
       "date": "2026-07-11",
-      "hours": 1.24
+      "hours": 0.0
     },
     {
       "date": "2026-07-12",
-      "hours": 9.2
+      "hours": 0.0
     },
     {
       "date": "2026-07-13",
-      "hours": 1.25
+      "hours": 0.0
     },
     {
       "date": "2026-07-14",
-      "hours": 5.24
+      "hours": 0.25
     },
     {
       "date": "2026-07-15",
-      "hours": 0.25
+      "hours": 0.0
     },
     {
       "date": "2026-07-16",
@@ -2446,31 +2446,31 @@
     },
     {
       "date": "2026-07-26",
-      "hours": 0.25
+      "hours": 0.0
     },
     {
       "date": "2026-07-27",
-      "hours": 1.49
+      "hours": 0.0
     },
     {
       "date": "2026-07-28",
-      "hours": 6.94
+      "hours": 3.75
     },
     {
       "date": "2026-07-29",
-      "hours": 9.67
+      "hours": 5.7
     },
     {
       "date": "2026-07-30",
-      "hours": 4.21
+      "hours": 1.47
     },
     {
       "date": "2026-07-31",
-      "hours": 5.98
+      "hours": 1.25
     },
     {
       "date": "2026-08-01",
-      "hours": 14.38
+      "hours": 2.37
     },
     {
       "date": "2026-08-02",
@@ -2478,11 +2478,11 @@
     },
     {
       "date": "2026-08-03",
-      "hours": 3.56
+      "hours": 0.0
     },
     {
       "date": "2026-08-04",
-      "hours": 5.24
+      "hours": 0.75
     }
   ],
   "daily_hours_combined": [
@@ -2664,31 +2664,31 @@
     },
     {
       "date": "2026-07-09",
-      "hours": 1.99
+      "hours": 1.0
     },
     {
       "date": "2026-07-10",
-      "hours": 6.72
+      "hours": 2.74
     },
     {
       "date": "2026-07-11",
-      "hours": 1.24
+      "hours": 0.0
     },
     {
       "date": "2026-07-12",
-      "hours": 9.2
+      "hours": 0.0
     },
     {
       "date": "2026-07-13",
-      "hours": 1.25
+      "hours": 0.0
     },
     {
       "date": "2026-07-14",
-      "hours": 5.24
+      "hours": 0.25
     },
     {
       "date": "2026-07-15",
-      "hours": 0.25
+      "hours": 0.0
     },
     {
       "date": "2026-07-16",
@@ -2732,31 +2732,31 @@
     },
     {
       "date": "2026-07-26",
-      "hours": 0.25
+      "hours": 0.0
     },
     {
       "date": "2026-07-27",
-      "hours": 1.49
+      "hours": 0.0
     },
     {
       "date": "2026-07-28",
-      "hours": 6.94
+      "hours": 3.75
     },
     {
       "date": "2026-07-29",
-      "hours": 9.67
+      "hours": 5.7
     },
     {
       "date": "2026-07-30",
-      "hours": 4.21
+      "hours": 1.47
     },
     {
       "date": "2026-07-31",
-      "hours": 5.98
+      "hours": 1.25
     },
     {
       "date": "2026-08-01",
-      "hours": 14.38
+      "hours": 2.37
     },
     {
       "date": "2026-08-02",
@@ -2764,11 +2764,11 @@
     },
     {
       "date": "2026-08-03",
-      "hours": 3.56
+      "hours": 0.0
     },
     {
       "date": "2026-08-04",
-      "hours": 5.24
+      "hours": 2.0
     }
   ],
   "timeline": [
@@ -2898,7 +2898,7 @@
       "hard_end": "2026-09-06",
       "projected": 132,
       "has_data": true,
-      "generated_at": "2026-08-04T14:10:23+12:00",
+      "generated_at": "2026-08-04T14:25:25+12:00",
       "source": "sheet"
     }
   }
