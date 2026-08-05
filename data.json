@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-08-05T02:10:25+00:00",
-  "generated_at_nz": "2026-08-05T14:10:09+12:00",
+  "generated_at_utc": "2026-08-05T02:25:27+00:00",
+  "generated_at_nz": "2026-08-05T14:25:07+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -17,49 +17,49 @@
     "chapter_max": 7000
   },
   "totals": {
-    "words": 10755,
-    "final_words": 12540,
+    "words": 10763,
+    "final_words": 12548,
     "inflation_ratio": 1.166,
     "percent_of_target": 41.8,
     "percent_final_of_30k": 41.8,
-    "words_remaining": 14975,
-    "final_remaining": 17460,
-    "prose_target": 25730,
-    "prose_target_high": 30018,
+    "words_remaining": 14969,
+    "final_remaining": 17452,
+    "prose_target": 25732,
+    "prose_target_high": 30021,
     "days_to_supervisor": 72,
     "days_to_final": 100,
-    "required_wpw_supervisor": 1456,
+    "required_wpw_supervisor": 1455,
     "required_wpw_final": 1048,
-    "velocity_7d_wpw": 78,
-    "velocity_14d_wpw": 39,
-    "velocity_28d_wpw": 20,
-    "velocity_overall_wpw": 1060,
+    "velocity_7d_wpw": 86,
+    "velocity_14d_wpw": 43,
+    "velocity_28d_wpw": 22,
+    "velocity_overall_wpw": 1061,
     "writing_start": "2026-05-26",
-    "projected_finish": "2041-04-24",
+    "projected_finish": "2039-12-09",
     "projected_finish_overall": "2026-11-12",
-    "buffer_days": -5304,
+    "buffer_days": -4802,
     "buffer_overall_days": -27,
-    "pace_margin_wpw": -1436,
+    "pace_margin_wpw": -1434,
     "pace_ratio": 0.01,
     "on_track": false,
     "verdict": "behind",
     "plan_start": "2026-04-27",
-    "plan_expected_today": 14959,
-    "behind_words": -4204,
+    "plan_expected_today": 14960,
+    "behind_words": -4197,
     "behind_days": -28.1,
     "plan_catchup_date": null,
     "plan_catchup_words": null,
-    "this_week_added": 78,
+    "this_week_added": 86,
     "this_week_goal": 1300,
-    "this_week_percent": 6,
+    "this_week_percent": 7,
     "week_start": "2026-08-03",
     "plan_chapter": "ch3 Methodology",
-    "hours_total": 138.5,
-    "hours_this_week": 5.0,
+    "hours_total": 138.8,
+    "hours_this_week": 5.2,
     "words_per_hour": 78,
     "hours_latex_total": 11.5,
-    "hours_system_total": 116.0,
-    "hours_combined_total": 201.3
+    "hours_system_total": 116.3,
+    "hours_combined_total": 201.5
   },
   "chapters": [
     {
@@ -79,16 +79,16 @@
     {
       "key": "ch2",
       "title": "Literature Review",
-      "prose_words": 4468,
+      "prose_words": 4476,
       "citations": 183,
       "render_words": 604,
-      "words": 5072,
+      "words": 5080,
       "latex_prose": 2,
       "latex_render": 0,
       "latex_words": 2,
       "floor": 6000,
       "max": 7000,
-      "percent_of_floor": 84.5
+      "percent_of_floor": 84.7
     },
     {
       "key": "ch3",
@@ -994,11 +994,11 @@
     },
     {
       "date": "2026-08-05",
-      "prose": 10755,
-      "final": 12540,
+      "prose": 10763,
+      "final": 12548,
       "chapters": {
         "ch1": 7468,
-        "ch2": 5072,
+        "ch2": 5080,
         "ch3": 0,
         "ch4": 0,
         "ch5": 0
@@ -1288,7 +1288,7 @@
     },
     {
       "date": "2026-08-05",
-      "added": 68
+      "added": 76
     }
   ],
   "daily_churn": [
@@ -1644,7 +1644,7 @@
     },
     {
       "date": "2026-08-05",
-      "added": 79,
+      "added": 69,
       "removed": 1
     }
   ],
@@ -1935,7 +1935,7 @@
     },
     {
       "date": "2026-08-05",
-      "hours": 2.49
+      "hours": 2.74
     }
   ],
   "daily_hours_latex": [
@@ -2515,7 +2515,7 @@
     },
     {
       "date": "2026-08-05",
-      "hours": 3.46
+      "hours": 3.71
     }
   ],
   "daily_hours_combined": [
@@ -2805,7 +2805,7 @@
     },
     {
       "date": "2026-08-05",
-      "hours": 3.71
+      "hours": 3.97
     }
   ],
   "timeline": [
@@ -2935,7 +2935,7 @@
       "hard_end": "2026-09-06",
       "projected": 155,
       "has_data": true,
-      "generated_at": "2026-08-05T14:10:14+12:00",
+      "generated_at": "2026-08-05T14:25:12+12:00",
       "source": "sheet"
     }
   }
