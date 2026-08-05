@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-08-05T04:55:23+00:00",
-  "generated_at_nz": "2026-08-05T16:55:08+12:00",
+  "generated_at_utc": "2026-08-05T05:10:39+00:00",
+  "generated_at_nz": "2026-08-05T17:10:09+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -17,49 +17,49 @@
     "chapter_max": 7000
   },
   "totals": {
-    "words": 10964,
-    "final_words": 12785,
+    "words": 10977,
+    "final_words": 12798,
     "inflation_ratio": 1.166,
-    "percent_of_target": 42.6,
-    "percent_final_of_30k": 42.6,
-    "words_remaining": 14763,
-    "final_remaining": 17215,
-    "prose_target": 25727,
-    "prose_target_high": 30015,
+    "percent_of_target": 42.7,
+    "percent_final_of_30k": 42.7,
+    "words_remaining": 14754,
+    "final_remaining": 17202,
+    "prose_target": 25731,
+    "prose_target_high": 30020,
     "days_to_supervisor": 72,
     "days_to_final": 100,
-    "required_wpw_supervisor": 1435,
+    "required_wpw_supervisor": 1434,
     "required_wpw_final": 1033,
-    "velocity_7d_wpw": 287,
-    "velocity_14d_wpw": 144,
-    "velocity_28d_wpw": 72,
-    "velocity_overall_wpw": 1081,
+    "velocity_7d_wpw": 300,
+    "velocity_14d_wpw": 150,
+    "velocity_28d_wpw": 75,
+    "velocity_overall_wpw": 1082,
     "writing_start": "2026-05-26",
-    "projected_finish": "2030-07-15",
-    "projected_finish_overall": "2026-11-09",
-    "buffer_days": -1368,
-    "buffer_overall_days": -24,
-    "pace_margin_wpw": -1364,
+    "projected_finish": "2030-05-13",
+    "projected_finish_overall": "2026-11-08",
+    "buffer_days": -1305,
+    "buffer_overall_days": -23,
+    "pace_margin_wpw": -1359,
     "pace_ratio": 0.05,
     "on_track": false,
     "verdict": "behind",
     "plan_start": "2026-04-27",
-    "plan_expected_today": 14958,
-    "behind_words": -3994,
-    "behind_days": -26.7,
+    "plan_expected_today": 14960,
+    "behind_words": -3983,
+    "behind_days": -26.6,
     "plan_catchup_date": null,
     "plan_catchup_words": null,
-    "this_week_added": 287,
+    "this_week_added": 300,
     "this_week_goal": 1300,
-    "this_week_percent": 22,
+    "this_week_percent": 23,
     "week_start": "2026-08-03",
     "plan_chapter": "ch3 Methodology",
-    "hours_total": 141.0,
-    "hours_this_week": 7.5,
+    "hours_total": 141.2,
+    "hours_this_week": 7.7,
     "words_per_hour": 78,
     "hours_latex_total": 11.5,
     "hours_system_total": 117.5,
-    "hours_combined_total": 204.0
+    "hours_combined_total": 204.2
   },
   "chapters": [
     {
@@ -79,16 +79,16 @@
     {
       "key": "ch2",
       "title": "Literature Review",
-      "prose_words": 4677,
+      "prose_words": 4690,
       "citations": 194,
       "render_words": 640,
-      "words": 5317,
+      "words": 5330,
       "latex_prose": 2,
       "latex_render": 0,
       "latex_words": 2,
       "floor": 6000,
       "max": 7000,
-      "percent_of_floor": 88.6
+      "percent_of_floor": 88.8
     },
     {
       "key": "ch3",
@@ -994,11 +994,11 @@
     },
     {
       "date": "2026-08-05",
-      "prose": 10964,
-      "final": 12785,
+      "prose": 10977,
+      "final": 12798,
       "chapters": {
         "ch1": 7468,
-        "ch2": 5317,
+        "ch2": 5330,
         "ch3": 0,
         "ch4": 0,
         "ch5": 0
@@ -1288,7 +1288,7 @@
     },
     {
       "date": "2026-08-05",
-      "added": 277
+      "added": 290
     }
   ],
   "daily_churn": [
@@ -1644,7 +1644,7 @@
     },
     {
       "date": "2026-08-05",
-      "added": 242,
+      "added": 286,
       "removed": 6
     }
   ],
@@ -1935,7 +1935,7 @@
     },
     {
       "date": "2026-08-05",
-      "hours": 4.95
+      "hours": 5.2
     }
   ],
   "daily_hours_latex": [
@@ -2805,7 +2805,7 @@
     },
     {
       "date": "2026-08-05",
-      "hours": 6.43
+      "hours": 6.68
     }
   ],
   "timeline": [
@@ -2935,7 +2935,7 @@
       "hard_end": "2026-09-06",
       "projected": 159,
       "has_data": true,
-      "generated_at": "2026-08-05T16:55:12+12:00",
+      "generated_at": "2026-08-05T17:10:18+12:00",
       "source": "sheet"
     }
   }
