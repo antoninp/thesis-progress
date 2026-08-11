@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-08-11T02:55:13+00:00",
-  "generated_at_nz": "2026-08-11T14:55:03+12:00",
+  "generated_at_utc": "2026-08-11T03:10:26+00:00",
+  "generated_at_nz": "2026-08-11T15:10:07+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -17,27 +17,27 @@
     "chapter_max": 7000
   },
   "totals": {
-    "words": 12137,
-    "final_words": 14153,
+    "words": 12139,
+    "final_words": 14155,
     "inflation_ratio": 1.166,
     "percent_of_target": 47.2,
     "percent_final_of_30k": 47.2,
-    "words_remaining": 13590,
-    "final_remaining": 15847,
+    "words_remaining": 13588,
+    "final_remaining": 15845,
     "prose_target": 25727,
-    "prose_target_high": 30014,
+    "prose_target_high": 30015,
     "days_to_supervisor": 66,
     "days_to_final": 94,
     "required_wpw_supervisor": 1441,
     "required_wpw_final": 1012,
-    "velocity_7d_wpw": 1450,
-    "velocity_14d_wpw": 730,
-    "velocity_28d_wpw": 365,
-    "velocity_overall_wpw": 1103,
+    "velocity_7d_wpw": 1452,
+    "velocity_14d_wpw": 731,
+    "velocity_28d_wpw": 366,
+    "velocity_overall_wpw": 1104,
     "writing_start": "2026-05-26",
-    "projected_finish": "2027-04-29",
+    "projected_finish": "2027-04-28",
     "projected_finish_overall": "2026-11-05",
-    "buffer_days": -195,
+    "buffer_days": -194,
     "buffer_overall_days": -20,
     "pace_margin_wpw": -1076,
     "pace_ratio": 0.25,
@@ -45,11 +45,11 @@
     "verdict": "behind",
     "plan_start": "2026-04-27",
     "plan_expected_today": 15855,
-    "behind_words": -3718,
-    "behind_days": -24.9,
+    "behind_words": -3716,
+    "behind_days": -24.8,
     "plan_catchup_date": null,
     "plan_catchup_words": null,
-    "this_week_added": 210,
+    "this_week_added": 212,
     "this_week_goal": 1300,
     "this_week_percent": 16,
     "week_start": "2026-08-10",
@@ -79,16 +79,16 @@
     {
       "key": "ch2",
       "title": "Literature Review",
-      "prose_words": 5850,
+      "prose_words": 5852,
       "citations": 253,
       "render_words": 835,
-      "words": 6685,
+      "words": 6687,
       "latex_prose": 2,
       "latex_render": 0,
       "latex_words": 2,
       "floor": 6000,
       "max": 7000,
-      "percent_of_floor": 111.4
+      "percent_of_floor": 111.5
     },
     {
       "key": "ch3",
@@ -1066,11 +1066,11 @@
     },
     {
       "date": "2026-08-11",
-      "prose": 12137,
-      "final": 14153,
+      "prose": 12139,
+      "final": 14155,
       "chapters": {
         "ch1": 7468,
-        "ch2": 6685,
+        "ch2": 6687,
         "ch3": 0,
         "ch4": 0,
         "ch5": 0
@@ -1384,7 +1384,7 @@
     },
     {
       "date": "2026-08-11",
-      "added": 137
+      "added": 139
     }
   ],
   "daily_churn": [
@@ -3157,7 +3157,7 @@
       "hard_end": "2026-09-06",
       "projected": 218,
       "has_data": true,
-      "generated_at": "2026-08-11T14:55:07+12:00",
+      "generated_at": "2026-08-11T15:10:13+12:00",
       "source": "sheet"
     }
   }
