@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-08-11T01:25:31+00:00",
-  "generated_at_nz": "2026-08-11T13:25:06+12:00",
+  "generated_at_utc": "2026-08-11T01:40:25+00:00",
+  "generated_at_nz": "2026-08-11T13:40:06+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -54,12 +54,12 @@
     "this_week_percent": 16,
     "week_start": "2026-08-10",
     "plan_chapter": "ch4 Findings",
-    "hours_total": 159.9,
-    "hours_this_week": 4.5,
+    "hours_total": 160.2,
+    "hours_this_week": 4.7,
     "words_per_hour": 76,
     "hours_latex_total": 11.5,
-    "hours_system_total": 134.9,
-    "hours_combined_total": 231.4
+    "hours_system_total": 135.2,
+    "hours_combined_total": 231.6
   },
   "chapters": [
     {
@@ -1770,7 +1770,7 @@
     },
     {
       "date": "2026-08-11",
-      "added": 261,
+      "added": 293,
       "removed": 156
     }
   ],
@@ -2085,7 +2085,7 @@
     },
     {
       "date": "2026-08-11",
-      "hours": 2.72
+      "hours": 2.97
     }
   ],
   "daily_hours_latex": [
@@ -2713,7 +2713,7 @@
     },
     {
       "date": "2026-08-11",
-      "hours": 2.24
+      "hours": 2.49
     }
   ],
   "daily_hours_combined": [
@@ -3027,7 +3027,7 @@
     },
     {
       "date": "2026-08-11",
-      "hours": 2.99
+      "hours": 3.24
     }
   ],
   "timeline": [
@@ -3139,25 +3139,25 @@
   },
   "data_collection": {
     "headline": {
-      "total": 217,
+      "total": 218,
       "target": 400,
       "floor": 250,
-      "percent": 54.2,
-      "percent_of_floor": 86.8,
+      "percent": 54.5,
+      "percent_of_floor": 87.2,
       "days_left": -2,
       "days_to_hard": 26,
       "start": "2026-05-29",
       "end": "2026-08-09",
-      "pace_per_day": 16.6,
+      "pace_per_day": 16.7,
       "avg_per_day": 7.8,
       "needed_per_day": null,
       "needed_per_day_floor": null,
       "best_day": 38,
       "best_day_date": "2026-08-07",
       "hard_end": "2026-09-06",
-      "projected": 217,
+      "projected": 218,
       "has_data": true,
-      "generated_at": "2026-08-11T13:25:13+12:00",
+      "generated_at": "2026-08-11T13:40:11+12:00",
       "source": "sheet"
     }
   }
