@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-08-11T03:25:27+00:00",
-  "generated_at_nz": "2026-08-11T15:25:08+12:00",
+  "generated_at_utc": "2026-08-11T03:40:30+00:00",
+  "generated_at_nz": "2026-08-11T15:40:10+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -17,49 +17,49 @@
     "chapter_max": 7000
   },
   "totals": {
-    "words": 12201,
-    "final_words": 14230,
+    "words": 12231,
+    "final_words": 14263,
     "inflation_ratio": 1.166,
-    "percent_of_target": 47.4,
-    "percent_final_of_30k": 47.4,
-    "words_remaining": 13521,
-    "final_remaining": 15770,
-    "prose_target": 25722,
-    "prose_target_high": 30009,
+    "percent_of_target": 47.5,
+    "percent_final_of_30k": 47.5,
+    "words_remaining": 13495,
+    "final_remaining": 15737,
+    "prose_target": 25726,
+    "prose_target_high": 30014,
     "days_to_supervisor": 66,
     "days_to_final": 94,
-    "required_wpw_supervisor": 1434,
-    "required_wpw_final": 1007,
-    "velocity_7d_wpw": 1514,
-    "velocity_14d_wpw": 762,
-    "velocity_28d_wpw": 381,
-    "velocity_overall_wpw": 1109,
+    "required_wpw_supervisor": 1431,
+    "required_wpw_final": 1005,
+    "velocity_7d_wpw": 1544,
+    "velocity_14d_wpw": 777,
+    "velocity_28d_wpw": 388,
+    "velocity_overall_wpw": 1112,
     "writing_start": "2026-05-26",
-    "projected_finish": "2027-04-16",
+    "projected_finish": "2027-04-11",
     "projected_finish_overall": "2026-11-04",
-    "buffer_days": -182,
+    "buffer_days": -177,
     "buffer_overall_days": -19,
-    "pace_margin_wpw": -1053,
+    "pace_margin_wpw": -1043,
     "pace_ratio": 0.27,
     "on_track": false,
     "verdict": "behind",
     "plan_start": "2026-04-27",
-    "plan_expected_today": 15852,
-    "behind_words": -3651,
-    "behind_days": -24.4,
+    "plan_expected_today": 15854,
+    "behind_words": -3623,
+    "behind_days": -24.2,
     "plan_catchup_date": null,
     "plan_catchup_words": null,
-    "this_week_added": 274,
+    "this_week_added": 304,
     "this_week_goal": 1300,
-    "this_week_percent": 21,
+    "this_week_percent": 23,
     "week_start": "2026-08-10",
     "plan_chapter": "ch4 Findings",
-    "hours_total": 160.4,
-    "hours_this_week": 5.0,
+    "hours_total": 160.7,
+    "hours_this_week": 5.2,
     "words_per_hour": 76,
     "hours_latex_total": 11.5,
     "hours_system_total": 135.4,
-    "hours_combined_total": 232.1
+    "hours_combined_total": 232.4
   },
   "chapters": [
     {
@@ -79,16 +79,16 @@
     {
       "key": "ch2",
       "title": "Literature Review",
-      "prose_words": 5914,
-      "citations": 257,
-      "render_words": 848,
-      "words": 6762,
+      "prose_words": 5944,
+      "citations": 258,
+      "render_words": 851,
+      "words": 6795,
       "latex_prose": 2,
       "latex_render": 0,
       "latex_words": 2,
       "floor": 6000,
       "max": 7000,
-      "percent_of_floor": 112.7
+      "percent_of_floor": 113.2
     },
     {
       "key": "ch3",
@@ -1066,11 +1066,11 @@
     },
     {
       "date": "2026-08-11",
-      "prose": 12201,
-      "final": 14230,
+      "prose": 12231,
+      "final": 14263,
       "chapters": {
         "ch1": 7468,
-        "ch2": 6762,
+        "ch2": 6795,
         "ch3": 0,
         "ch4": 0,
         "ch5": 0
@@ -1384,7 +1384,7 @@
     },
     {
       "date": "2026-08-11",
-      "added": 201
+      "added": 231
     }
   ],
   "daily_churn": [
@@ -1770,7 +1770,7 @@
     },
     {
       "date": "2026-08-11",
-      "added": 299,
+      "added": 363,
       "removed": 156
     }
   ],
@@ -2085,7 +2085,7 @@
     },
     {
       "date": "2026-08-11",
-      "hours": 3.22
+      "hours": 3.47
     }
   ],
   "daily_hours_latex": [
@@ -3027,7 +3027,7 @@
     },
     {
       "date": "2026-08-11",
-      "hours": 3.74
+      "hours": 3.99
     }
   ],
   "timeline": [
@@ -3157,7 +3157,7 @@
       "hard_end": "2026-09-06",
       "projected": 218,
       "has_data": true,
-      "generated_at": "2026-08-11T15:25:12+12:00",
+      "generated_at": "2026-08-11T15:40:15+12:00",
       "source": "sheet"
     }
   }
