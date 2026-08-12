@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-08-12T00:40:26+00:00",
-  "generated_at_nz": "2026-08-12T12:40:06+12:00",
+  "generated_at_utc": "2026-08-12T00:55:23+00:00",
+  "generated_at_nz": "2026-08-12T12:55:07+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -17,49 +17,49 @@
     "chapter_max": 7000
   },
   "totals": {
-    "words": 12373,
-    "final_words": 14422,
+    "words": 12377,
+    "final_words": 14429,
     "inflation_ratio": 1.166,
     "percent_of_target": 48.1,
     "percent_final_of_30k": 48.1,
-    "words_remaining": 13365,
-    "final_remaining": 15578,
-    "prose_target": 25738,
-    "prose_target_high": 30027,
+    "words_remaining": 13357,
+    "final_remaining": 15571,
+    "prose_target": 25734,
+    "prose_target_high": 30023,
     "days_to_supervisor": 65,
     "days_to_final": 93,
-    "required_wpw_supervisor": 1439,
-    "required_wpw_final": 1006,
-    "velocity_7d_wpw": 1092,
-    "velocity_14d_wpw": 848,
-    "velocity_28d_wpw": 424,
-    "velocity_overall_wpw": 1110,
+    "required_wpw_supervisor": 1438,
+    "required_wpw_final": 1005,
+    "velocity_7d_wpw": 1096,
+    "velocity_14d_wpw": 850,
+    "velocity_28d_wpw": 425,
+    "velocity_overall_wpw": 1111,
     "writing_start": "2026-05-26",
-    "projected_finish": "2027-03-21",
+    "projected_finish": "2027-03-20",
     "projected_finish_overall": "2026-11-04",
-    "buffer_days": -156,
+    "buffer_days": -155,
     "buffer_overall_days": -19,
-    "pace_margin_wpw": -1015,
-    "pace_ratio": 0.29,
+    "pace_margin_wpw": -1013,
+    "pace_ratio": 0.3,
     "on_track": false,
     "verdict": "behind",
     "plan_start": "2026-04-27",
-    "plan_expected_today": 16011,
-    "behind_words": -3638,
+    "plan_expected_today": 16009,
+    "behind_words": -3632,
     "behind_days": -24.3,
     "plan_catchup_date": null,
     "plan_catchup_words": null,
-    "this_week_added": 446,
+    "this_week_added": 450,
     "this_week_goal": 1300,
-    "this_week_percent": 34,
+    "this_week_percent": 35,
     "week_start": "2026-08-10",
     "plan_chapter": "ch4 Findings",
-    "hours_total": 164.2,
-    "hours_this_week": 8.7,
+    "hours_total": 164.4,
+    "hours_this_week": 9.0,
     "words_per_hour": 75,
     "hours_latex_total": 11.5,
-    "hours_system_total": 138.4,
-    "hours_combined_total": 236.9
+    "hours_system_total": 138.6,
+    "hours_combined_total": 237.1
   },
   "chapters": [
     {
@@ -79,16 +79,16 @@
     {
       "key": "ch2",
       "title": "Literature Review",
-      "prose_words": 6086,
-      "citations": 263,
-      "render_words": 868,
-      "words": 6954,
+      "prose_words": 6090,
+      "citations": 264,
+      "render_words": 871,
+      "words": 6961,
       "latex_prose": 2,
       "latex_render": 0,
       "latex_words": 2,
       "floor": 6000,
       "max": 7000,
-      "percent_of_floor": 115.9
+      "percent_of_floor": 116.0
     },
     {
       "key": "ch3",
@@ -1078,11 +1078,11 @@
     },
     {
       "date": "2026-08-12",
-      "prose": 12373,
-      "final": 14422,
+      "prose": 12377,
+      "final": 14429,
       "chapters": {
         "ch1": 7468,
-        "ch2": 6954,
+        "ch2": 6961,
         "ch3": 0,
         "ch4": 0,
         "ch5": 0
@@ -1400,7 +1400,7 @@
     },
     {
       "date": "2026-08-12",
-      "added": 240
+      "added": 244
     }
   ],
   "daily_churn": [
@@ -2110,7 +2110,7 @@
     },
     {
       "date": "2026-08-12",
-      "hours": 1.5
+      "hours": 1.75
     }
   ],
   "daily_hours_latex": [
@@ -2746,7 +2746,7 @@
     },
     {
       "date": "2026-08-12",
-      "hours": 1.0
+      "hours": 1.25
     }
   ],
   "daily_hours_combined": [
@@ -3064,7 +3064,7 @@
     },
     {
       "date": "2026-08-12",
-      "hours": 1.75
+      "hours": 2.0
     }
   ],
   "timeline": [
@@ -3194,7 +3194,7 @@
       "hard_end": "2026-09-06",
       "projected": 237,
       "has_data": true,
-      "generated_at": "2026-08-12T12:40:11+12:00",
+      "generated_at": "2026-08-12T12:55:11+12:00",
       "source": "sheet"
     }
   }
