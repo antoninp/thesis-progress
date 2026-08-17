@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-08-17T21:40:19+00:00",
-  "generated_at_nz": "2026-08-18T09:40:05+12:00",
+  "generated_at_utc": "2026-08-17T21:55:21+00:00",
+  "generated_at_nz": "2026-08-18T09:55:04+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -17,21 +17,21 @@
     "chapter_max": 10000
   },
   "totals": {
-    "words": 13955,
-    "final_words": 16189,
+    "words": 13959,
+    "final_words": 16193,
     "inflation_ratio": 1.16,
     "percent_of_target": 54.0,
     "percent_final_of_30k": 54.0,
-    "words_remaining": 11905,
-    "final_remaining": 13811,
-    "prose_target": 25860,
-    "prose_target_high": 30170,
+    "words_remaining": 11902,
+    "final_remaining": 13807,
+    "prose_target": 25861,
+    "prose_target_high": 30171,
     "days_to_supervisor": 59,
     "days_to_final": 87,
     "required_wpw_supervisor": 1412,
     "required_wpw_final": 958,
-    "velocity_7d_wpw": 1822,
-    "velocity_14d_wpw": 1634,
+    "velocity_7d_wpw": 1826,
+    "velocity_14d_wpw": 1636,
     "velocity_28d_wpw": 820,
     "velocity_overall_wpw": 1163,
     "writing_start": "2026-05-26",
@@ -40,29 +40,31 @@
     "projected_finish_7d": "2026-10-03",
     "buffer_days": -43,
     "buffer_overall_days": -13,
-    "pace_margin_wpw": -593,
+    "pace_margin_wpw": -592,
     "pace_ratio": 0.58,
     "on_track": false,
     "verdict": "behind",
     "plan_start": "2026-04-27",
-    "plan_expected_today": 16989,
-    "behind_words": -3034,
+    "plan_expected_today": 16990,
+    "behind_words": -3031,
     "behind_days": -20.2,
     "plan_catchup_date": null,
     "plan_catchup_words": null,
-    "this_week_added": 254,
-    "today_added": 7,
+    "plan_catchup_date_7d": "2026-09-14",
+    "plan_catchup_words_7d": 21114,
+    "this_week_added": 258,
+    "today_added": 11,
     "this_week_goal": 1300,
     "this_week_percent": 20,
     "week_start": "2026-08-17",
     "plan_chapter": "ch4 Findings",
     "current_chapter": "ch2 Literature Review",
-    "hours_total": 187.8,
-    "hours_this_week": 6.7,
+    "hours_total": 188.1,
+    "hours_this_week": 7.0,
     "words_per_hour": 74,
     "hours_latex_total": 11.5,
-    "hours_system_total": 152.9,
-    "hours_combined_total": 265.0
+    "hours_system_total": 153.1,
+    "hours_combined_total": 265.3
   },
   "chapters": [
     {
@@ -82,16 +84,16 @@
     {
       "key": "ch2",
       "title": "Literature Review",
-      "prose_words": 7668,
+      "prose_words": 7672,
       "citations": 319,
       "render_words": 1053,
-      "words": 8721,
+      "words": 8725,
       "latex_prose": 2,
       "latex_render": 0,
       "latex_words": 2,
       "floor": 8000,
       "max": 10000,
-      "percent_of_floor": 109.0
+      "percent_of_floor": 109.1
     },
     {
       "key": "ch3",
@@ -1153,11 +1155,11 @@
     },
     {
       "date": "2026-08-18",
-      "prose": 13955,
-      "final": 16189,
+      "prose": 13959,
+      "final": 16193,
       "chapters": {
         "ch1": 7468,
-        "ch2": 8721,
+        "ch2": 8725,
         "ch3": 0,
         "ch4": 0,
         "ch5": 0
@@ -1499,7 +1501,7 @@
     },
     {
       "date": "2026-08-18",
-      "added": 7
+      "added": 11
     }
   ],
   "daily_churn": [
@@ -1920,8 +1922,8 @@
     },
     {
       "date": "2026-08-18",
-      "added": 0,
-      "removed": 0
+      "added": 13,
+      "removed": 6
     }
   ],
   "daily_hours": [
@@ -2263,7 +2265,7 @@
     },
     {
       "date": "2026-08-18",
-      "hours": 0.0
+      "hours": 0.25
     }
   ],
   "daily_hours_latex": [
@@ -2947,7 +2949,7 @@
     },
     {
       "date": "2026-08-18",
-      "hours": 0.0
+      "hours": 0.25
     }
   ],
   "daily_hours_combined": [
@@ -3289,7 +3291,7 @@
     },
     {
       "date": "2026-08-18",
-      "hours": 0.0
+      "hours": 0.26
     }
   ],
   "timeline": [
@@ -3419,7 +3421,7 @@
       "hard_end": "2026-09-06",
       "projected": 277,
       "has_data": true,
-      "generated_at": "2026-08-18T09:40:09+12:00",
+      "generated_at": "2026-08-18T09:55:08+12:00",
       "source": "sheet"
     }
   }
