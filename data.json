@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-08-18T21:10:54+00:00",
-  "generated_at_nz": "2026-08-19T09:10:09+12:00",
+  "generated_at_utc": "2026-08-18T21:25:22+00:00",
+  "generated_at_nz": "2026-08-19T09:25:08+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -53,18 +53,18 @@
     "plan_catchup_date_7d": "2026-09-19",
     "plan_catchup_words_7d": 21562,
     "this_week_added": 625,
-    "today_added": 8039,
+    "today_added": 378,
     "this_week_goal": 1300,
     "this_week_percent": 48,
     "week_start": "2026-08-17",
     "plan_chapter": "ch4 Findings",
     "current_chapter": "ch2 Literature Review",
-    "hours_total": 195.1,
-    "hours_this_week": 13.9,
+    "hours_total": 195.3,
+    "hours_this_week": 14.2,
     "words_per_hour": 73,
     "hours_latex_total": 11.5,
     "hours_system_total": 159.5,
-    "hours_combined_total": 274.7
+    "hours_combined_total": 275.0
   },
   "chapters": [
     {
@@ -1155,11 +1155,11 @@
     },
     {
       "date": "2026-08-18",
-      "prose": 6287,
-      "final": 7468,
+      "prose": 13948,
+      "final": 16182,
       "chapters": {
         "ch1": 7468,
-        "ch2": 0,
+        "ch2": 8714,
         "ch3": 0,
         "ch4": 0,
         "ch5": 0
@@ -1513,11 +1513,11 @@
     },
     {
       "date": "2026-08-18",
-      "added": -7661
+      "added": 0
     },
     {
       "date": "2026-08-19",
-      "added": 8039
+      "added": 378
     }
   ],
   "daily_churn": [
@@ -1939,12 +1939,12 @@
     {
       "date": "2026-08-18",
       "added": 0,
-      "removed": 7661
+      "removed": 0
     },
     {
       "date": "2026-08-19",
-      "added": 0,
-      "removed": 0
+      "added": 528,
+      "removed": 150
     }
   ],
   "daily_hours": [
@@ -2290,7 +2290,7 @@
     },
     {
       "date": "2026-08-19",
-      "hours": 0.0
+      "hours": 0.25
     }
   ],
   "daily_hours_latex": [
@@ -3328,7 +3328,7 @@
     },
     {
       "date": "2026-08-19",
-      "hours": 0.0
+      "hours": 0.25
     }
   ],
   "timeline": [
@@ -3458,7 +3458,7 @@
       "hard_end": "2026-09-06",
       "projected": 280,
       "has_data": true,
-      "generated_at": "2026-08-19T09:10:17+12:00",
+      "generated_at": "2026-08-19T09:25:12+12:00",
       "source": "sheet"
     }
   }
