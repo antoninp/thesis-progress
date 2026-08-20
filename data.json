@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-08-20T07:40:41+00:00",
-  "generated_at_nz": "2026-08-20T19:40:10+12:00",
+  "generated_at_utc": "2026-08-20T07:55:38+00:00",
+  "generated_at_nz": "2026-08-20T19:55:07+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -59,12 +59,12 @@
     "week_start": "2026-08-17",
     "plan_chapter": "ch4 Findings",
     "current_chapter": "ch2 Literature Review",
-    "hours_total": 205.0,
-    "hours_this_week": 23.9,
+    "hours_total": 205.2,
+    "hours_this_week": 24.1,
     "words_per_hour": 70,
-    "hours_latex_total": 11.5,
-    "hours_system_total": 168.8,
-    "hours_combined_total": 286.2
+    "hours_latex_total": 11.7,
+    "hours_system_total": 169.0,
+    "hours_combined_total": 286.5
   },
   "chapters": [
     {
@@ -88,9 +88,9 @@
       "citations": 484,
       "render_words": 1597,
       "words": 9654,
-      "latex_prose": 2,
-      "latex_render": 0,
-      "latex_words": 2,
+      "latex_prose": 8051,
+      "latex_render": 1373,
+      "latex_words": 9424,
       "floor": 8000,
       "max": 10000,
       "percent_of_floor": 120.7
@@ -139,10 +139,10 @@
     }
   ],
   "latex": {
-    "total_prose": 7787,
-    "total_words": 9074,
+    "total_prose": 15836,
+    "total_words": 18496,
     "target": 30000,
-    "percent_of_target": 30.2
+    "percent_of_target": 61.7
   },
   "history": [
     {
@@ -1964,8 +1964,8 @@
     },
     {
       "date": "2026-08-20",
-      "added": 22,
-      "removed": 21
+      "added": 31,
+      "removed": 30
     }
   ],
   "daily_hours": [
@@ -2315,7 +2315,7 @@
     },
     {
       "date": "2026-08-20",
-      "hours": 1.25
+      "hours": 1.5
     }
   ],
   "daily_hours_latex": [
@@ -2665,7 +2665,7 @@
     },
     {
       "date": "2026-08-20",
-      "hours": 0.0
+      "hours": 0.25
     }
   ],
   "daily_hours_system": [
@@ -3015,7 +3015,7 @@
     },
     {
       "date": "2026-08-20",
-      "hours": 0.75
+      "hours": 1.0
     }
   ],
   "daily_hours_combined": [
@@ -3365,7 +3365,7 @@
     },
     {
       "date": "2026-08-20",
-      "hours": 1.5
+      "hours": 1.76
     }
   ],
   "timeline": [
@@ -3495,7 +3495,7 @@
       "hard_end": "2026-09-06",
       "projected": 285,
       "has_data": true,
-      "generated_at": "2026-08-20T19:40:15+12:00",
+      "generated_at": "2026-08-20T19:55:11+12:00",
       "source": "sheet"
     }
   }
