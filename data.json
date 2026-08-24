@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-08-24T01:25:37+00:00",
-  "generated_at_nz": "2026-08-24T13:25:03+12:00",
+  "generated_at_utc": "2026-08-24T01:40:27+00:00",
+  "generated_at_nz": "2026-08-24T13:40:04+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -17,21 +17,21 @@
     "chapter_max": 10000
   },
   "totals": {
-    "words": 14686,
-    "final_words": 17510,
+    "words": 14687,
+    "final_words": 17511,
     "inflation_ratio": 1.192,
     "percent_of_target": 58.4,
     "percent_final_of_30k": 58.4,
-    "words_remaining": 10476,
-    "final_remaining": 12490,
+    "words_remaining": 10475,
+    "final_remaining": 12489,
     "prose_target": 25162,
-    "prose_target_high": 29355,
+    "prose_target_high": 29356,
     "days_to_supervisor": 53,
     "days_to_final": 81,
-    "required_wpw_supervisor": 1384,
+    "required_wpw_supervisor": 1383,
     "required_wpw_final": 905,
-    "velocity_7d_wpw": 738,
-    "velocity_14d_wpw": 1343,
+    "velocity_7d_wpw": 739,
+    "velocity_14d_wpw": 1344,
     "velocity_28d_wpw": 1002,
     "velocity_overall_wpw": 1142,
     "writing_start": "2026-05-26",
@@ -46,16 +46,16 @@
     "verdict": "behind",
     "plan_start": "2026-04-27",
     "plan_expected_today": 17409,
-    "behind_words": -2723,
+    "behind_words": -2722,
     "behind_days": -18.6,
     "plan_catchup_date": null,
     "plan_catchup_words": null,
     "plan_catchup_date_7d": null,
     "plan_catchup_words_7d": null,
-    "this_week_added": 149,
-    "today_added": 149,
+    "this_week_added": 150,
+    "today_added": 150,
     "this_week_goal": 1300,
-    "this_week_percent": 11,
+    "this_week_percent": 12,
     "week_start": "2026-08-24",
     "plan_chapter": "ch4 Findings",
     "current_chapter": "ch3 Methodology",
@@ -98,10 +98,10 @@
     {
       "key": "ch3",
       "title": "Methodology",
-      "prose_words": 339,
+      "prose_words": 340,
       "citations": 11,
       "render_words": 36,
-      "words": 375,
+      "words": 376,
       "latex_prose": 1503,
       "latex_render": 155,
       "latex_words": 1658,
@@ -1227,12 +1227,12 @@
     },
     {
       "date": "2026-08-24",
-      "prose": 14686,
-      "final": 17510,
+      "prose": 14687,
+      "final": 17511,
       "chapters": {
         "ch1": 7475,
         "ch2": 9660,
-        "ch3": 375,
+        "ch3": 376,
         "ch4": 0,
         "ch5": 0
       }
@@ -1597,7 +1597,7 @@
     },
     {
       "date": "2026-08-24",
-      "added": 149
+      "added": 150
     }
   ],
   "daily_churn": [
@@ -3651,7 +3651,7 @@
       "hard_end": "2026-09-06",
       "projected": 298,
       "has_data": true,
-      "generated_at": "2026-08-24T13:25:09+12:00",
+      "generated_at": "2026-08-24T13:40:09+12:00",
       "source": "sheet"
     }
   }
