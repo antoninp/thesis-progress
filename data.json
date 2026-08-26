@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-08-26T02:40:40+00:00",
-  "generated_at_nz": "2026-08-26T14:40:11+12:00",
+  "generated_at_utc": "2026-08-26T02:55:35+00:00",
+  "generated_at_nz": "2026-08-26T14:55:10+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -17,21 +17,21 @@
     "chapter_max": 10000
   },
   "totals": {
-    "words": 16648,
-    "final_words": 19707,
+    "words": 16650,
+    "final_words": 19715,
     "inflation_ratio": 1.184,
     "percent_of_target": 65.7,
     "percent_final_of_30k": 65.7,
-    "words_remaining": 8695,
-    "final_remaining": 10293,
-    "prose_target": 25343,
-    "prose_target_high": 29567,
+    "words_remaining": 8686,
+    "final_remaining": 10285,
+    "prose_target": 25336,
+    "prose_target_high": 29559,
     "days_to_supervisor": 51,
     "days_to_final": 79,
-    "required_wpw_supervisor": 1193,
+    "required_wpw_supervisor": 1192,
     "required_wpw_final": 770,
-    "velocity_7d_wpw": 2305,
-    "velocity_14d_wpw": 1982,
+    "velocity_7d_wpw": 2307,
+    "velocity_14d_wpw": 1983,
     "velocity_28d_wpw": 1493,
     "velocity_overall_wpw": 1267,
     "writing_start": "2026-05-26",
@@ -40,31 +40,31 @@
     "projected_finish_7d": "2026-09-21",
     "buffer_days": 10,
     "buffer_overall_days": 3,
-    "pace_margin_wpw": 299,
+    "pace_margin_wpw": 301,
     "pace_ratio": 1.25,
     "on_track": true,
     "verdict": "catching_up",
     "plan_start": "2026-04-27",
-    "plan_expected_today": 17829,
-    "behind_words": -1181,
+    "plan_expected_today": 17824,
+    "behind_words": -1174,
     "behind_days": -8.0,
     "plan_catchup_date": "2026-09-13",
-    "plan_catchup_words": 20468,
+    "plan_catchup_words": 20442,
     "plan_catchup_date_7d": "2026-09-01",
-    "plan_catchup_words_7d": 18785,
-    "this_week_added": 2111,
-    "today_added": 328,
+    "plan_catchup_words_7d": 18772,
+    "this_week_added": 2113,
+    "today_added": 330,
     "this_week_goal": 1300,
-    "this_week_percent": 162,
+    "this_week_percent": 163,
     "week_start": "2026-08-24",
     "plan_chapter": "ch4 Findings",
     "current_chapter": "ch3 Methodology",
-    "hours_total": 226.6,
-    "hours_this_week": 17.4,
+    "hours_total": 226.9,
+    "hours_this_week": 17.6,
     "words_per_hour": 73,
     "hours_latex_total": 17.0,
     "hours_system_total": 185.3,
-    "hours_combined_total": 317.8
+    "hours_combined_total": 318.1
   },
   "chapters": [
     {
@@ -98,16 +98,16 @@
     {
       "key": "ch3",
       "title": "Methodology",
-      "prose_words": 2298,
-      "citations": 82,
-      "render_words": 271,
-      "words": 2569,
+      "prose_words": 2300,
+      "citations": 84,
+      "render_words": 277,
+      "words": 2577,
       "latex_prose": 1503,
       "latex_render": 155,
       "latex_words": 1658,
       "floor": 5000,
       "max": 6000,
-      "percent_of_floor": 51.4
+      "percent_of_floor": 51.5
     },
     {
       "key": "ch4",
@@ -1251,12 +1251,12 @@
     },
     {
       "date": "2026-08-26",
-      "prose": 16648,
-      "final": 19707,
+      "prose": 16650,
+      "final": 19715,
       "chapters": {
         "ch1": 7475,
         "ch2": 9663,
-        "ch3": 2569,
+        "ch3": 2577,
         "ch4": 0,
         "ch5": 0
       }
@@ -1629,7 +1629,7 @@
     },
     {
       "date": "2026-08-26",
-      "added": 328
+      "added": 330
     }
   ],
   "daily_churn": [
@@ -2090,7 +2090,7 @@
     },
     {
       "date": "2026-08-26",
-      "added": 314,
+      "added": 336,
       "removed": 8
     }
   ],
@@ -2465,7 +2465,7 @@
     },
     {
       "date": "2026-08-26",
-      "hours": 3.5
+      "hours": 3.74
     }
   ],
   "daily_hours_latex": [
@@ -3587,7 +3587,7 @@
     },
     {
       "date": "2026-08-26",
-      "hours": 5.25
+      "hours": 5.5
     }
   ],
   "timeline": [
@@ -3725,7 +3725,7 @@
       "hard_end": "2026-09-06",
       "projected": 306,
       "has_data": true,
-      "generated_at": "2026-08-26T14:40:16+12:00",
+      "generated_at": "2026-08-26T14:55:14+12:00",
       "source": "sheet"
     }
   }
