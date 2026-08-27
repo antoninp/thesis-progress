@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-08-27T07:55:35+00:00",
-  "generated_at_nz": "2026-08-27T19:55:05+12:00",
+  "generated_at_utc": "2026-08-27T08:11:38+00:00",
+  "generated_at_nz": "2026-08-27T20:10:22+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -64,9 +64,9 @@
     "hours_total": 231.8,
     "hours_this_week": 22.6,
     "words_per_hour": 73,
-    "hours_latex_total": 17.5,
-    "hours_system_total": 189.5,
-    "hours_combined_total": 323.9
+    "hours_latex_total": 17.7,
+    "hours_system_total": 189.7,
+    "hours_combined_total": 324.1
   },
   "chapters": [
     {
@@ -90,9 +90,9 @@
       "citations": 484,
       "render_words": 1597,
       "words": 9663,
-      "latex_prose": 8051,
+      "latex_prose": 8072,
       "latex_render": 1373,
-      "latex_words": 9424,
+      "latex_words": 9445,
       "floor": 8000,
       "max": 10000,
       "percent_of_floor": 120.8
@@ -141,8 +141,8 @@
     }
   ],
   "latex": {
-    "total_prose": 15835,
-    "total_words": 18495,
+    "total_prose": 15856,
+    "total_words": 18516,
     "target": 30000,
     "percent_of_target": 61.7
   },
@@ -2870,7 +2870,7 @@
     },
     {
       "date": "2026-08-27",
-      "hours": 0.5
+      "hours": 0.71
     }
   ],
   "daily_hours_system": [
@@ -3248,7 +3248,7 @@
     },
     {
       "date": "2026-08-27",
-      "hours": 1.38
+      "hours": 1.6
     }
   ],
   "daily_hours_combined": [
@@ -3626,7 +3626,7 @@
     },
     {
       "date": "2026-08-27",
-      "hours": 1.6
+      "hours": 1.81
     }
   ],
   "timeline": [
@@ -3754,25 +3754,25 @@
   },
   "data_collection": {
     "headline": {
-      "total": 323,
+      "total": 324,
       "target": 400,
       "floor": 250,
-      "percent": 80.8,
-      "percent_of_floor": 129.2,
+      "percent": 81.0,
+      "percent_of_floor": 129.6,
       "days_left": -18,
       "days_to_hard": 10,
       "start": "2026-05-29",
       "end": "2026-08-09",
-      "pace_per_day": 5.1,
-      "avg_per_day": 7.3,
+      "pace_per_day": 5.3,
+      "avg_per_day": 7.4,
       "needed_per_day": null,
       "needed_per_day_floor": null,
       "best_day": 38,
       "best_day_date": "2026-08-07",
       "hard_end": "2026-09-06",
-      "projected": 323,
+      "projected": 324,
       "has_data": true,
-      "generated_at": "2026-08-27T19:55:10+12:00",
+      "generated_at": "2026-08-27T20:10:30+12:00",
       "source": "sheet"
     }
   }
