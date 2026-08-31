@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-08-31T02:41:22+00:00",
-  "generated_at_nz": "2026-08-31T14:40:15+12:00",
+  "generated_at_utc": "2026-08-31T02:55:45+00:00",
+  "generated_at_nz": "2026-08-31T14:55:09+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -18,17 +18,17 @@
   },
   "totals": {
     "words": 18100,
-    "final_words": 21310,
-    "inflation_ratio": 1.177,
+    "final_words": 21314,
+    "inflation_ratio": 1.178,
     "percent_of_target": 71.0,
     "percent_final_of_30k": 71.0,
-    "words_remaining": 7381,
-    "final_remaining": 8690,
-    "prose_target": 25481,
-    "prose_target_high": 29728,
+    "words_remaining": 7376,
+    "final_remaining": 8686,
+    "prose_target": 25476,
+    "prose_target_high": 29722,
     "days_to_supervisor": 46,
     "days_to_final": 74,
-    "required_wpw_supervisor": 1123,
+    "required_wpw_supervisor": 1122,
     "required_wpw_final": 698,
     "velocity_7d_wpw": 2994,
     "velocity_14d_wpw": 2076,
@@ -45,15 +45,15 @@
     "on_track": true,
     "verdict": "catching_up",
     "plan_start": "2026-04-27",
-    "plan_expected_today": 18666,
-    "behind_words": -566,
+    "plan_expected_today": 18663,
+    "behind_words": -563,
     "behind_days": -3.8,
     "plan_catchup_date": "2026-09-05",
-    "plan_catchup_words": 19384,
+    "plan_catchup_words": 19375,
     "plan_catchup_date_7d": "2026-09-02",
-    "plan_catchup_words_7d": 18966,
+    "plan_catchup_words_7d": 18961,
     "plan_catchup_date_overall": "2026-09-15",
-    "plan_catchup_words_overall": 20848,
+    "plan_catchup_words_overall": 20828,
     "this_week_added": 243,
     "today_added": 243,
     "this_week_goal": 1300,
@@ -61,12 +61,12 @@
     "week_start": "2026-08-31",
     "plan_chapter": "ch4 Findings",
     "current_chapter": "ch3 Methodology",
-    "hours_total": 243.2,
-    "hours_this_week": 3.0,
+    "hours_total": 243.5,
+    "hours_this_week": 3.2,
     "words_per_hour": 74,
     "hours_latex_total": 19.4,
-    "hours_system_total": 201.4,
-    "hours_combined_total": 340.6
+    "hours_system_total": 201.6,
+    "hours_combined_total": 340.8
   },
   "chapters": [
     {
@@ -101,15 +101,15 @@
       "key": "ch3",
       "title": "Methodology",
       "prose_words": 3750,
-      "citations": 128,
-      "render_words": 422,
-      "words": 4172,
+      "citations": 129,
+      "render_words": 426,
+      "words": 4176,
       "latex_prose": 1503,
       "latex_render": 155,
       "latex_words": 1658,
       "floor": 5000,
       "max": 6000,
-      "percent_of_floor": 83.4
+      "percent_of_floor": 83.5
     },
     {
       "key": "ch4",
@@ -1314,11 +1314,11 @@
     {
       "date": "2026-08-31",
       "prose": 18100,
-      "final": 21310,
+      "final": 21314,
       "chapters": {
         "ch1": 7475,
         "ch2": 9663,
-        "ch3": 4172,
+        "ch3": 4176,
         "ch4": 0,
         "ch5": 0
       }
@@ -2197,7 +2197,7 @@
     },
     {
       "date": "2026-08-31",
-      "added": 256,
+      "added": 271,
       "removed": 28
     }
   ],
@@ -2592,7 +2592,7 @@
     },
     {
       "date": "2026-08-31",
-      "hours": 2.98
+      "hours": 3.23
     }
   ],
   "daily_hours_latex": [
@@ -3380,7 +3380,7 @@
     },
     {
       "date": "2026-08-31",
-      "hours": 4.68
+      "hours": 4.93
     }
   ],
   "daily_hours_combined": [
@@ -3774,7 +3774,7 @@
     },
     {
       "date": "2026-08-31",
-      "hours": 4.94
+      "hours": 5.2
     }
   ],
   "timeline": [
@@ -3902,25 +3902,25 @@
   },
   "data_collection": {
     "headline": {
-      "total": 403,
+      "total": 404,
       "target": 400,
       "floor": 250,
-      "percent": 100.8,
-      "percent_of_floor": 161.2,
+      "percent": 101.0,
+      "percent_of_floor": 161.6,
       "days_left": -22,
       "days_to_hard": 6,
       "start": "2026-05-29",
       "end": "2026-08-09",
-      "pace_per_day": 14.9,
+      "pace_per_day": 15.0,
       "avg_per_day": 8.4,
       "needed_per_day": null,
       "needed_per_day_floor": null,
       "best_day": 42,
       "best_day_date": "2026-08-28",
       "hard_end": "2026-09-06",
-      "projected": 403,
+      "projected": 404,
       "has_data": true,
-      "generated_at": "2026-08-31T14:40:21+12:00",
+      "generated_at": "2026-08-31T14:55:15+12:00",
       "source": "sheet"
     }
   }
