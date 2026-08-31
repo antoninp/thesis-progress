@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-08-31T04:10:42+00:00",
-  "generated_at_nz": "2026-08-31T16:10:07+12:00",
+  "generated_at_utc": "2026-08-31T04:25:38+00:00",
+  "generated_at_nz": "2026-08-31T16:25:07+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -61,12 +61,12 @@
     "week_start": "2026-08-31",
     "plan_chapter": "ch4 Findings",
     "current_chapter": "ch3 Methodology",
-    "hours_total": 244.6,
-    "hours_this_week": 4.4,
+    "hours_total": 244.9,
+    "hours_this_week": 4.6,
     "words_per_hour": 74,
-    "hours_latex_total": 19.9,
-    "hours_system_total": 202.5,
-    "hours_combined_total": 342.0
+    "hours_latex_total": 20.1,
+    "hours_system_total": 202.8,
+    "hours_combined_total": 342.2
   },
   "chapters": [
     {
@@ -2592,7 +2592,7 @@
     },
     {
       "date": "2026-08-31",
-      "hours": 4.37
+      "hours": 4.62
     }
   ],
   "daily_hours_latex": [
@@ -2986,7 +2986,7 @@
     },
     {
       "date": "2026-08-31",
-      "hours": 0.72
+      "hours": 0.97
     }
   ],
   "daily_hours_system": [
@@ -3380,7 +3380,7 @@
     },
     {
       "date": "2026-08-31",
-      "hours": 5.85
+      "hours": 6.09
     }
   ],
   "daily_hours_combined": [
@@ -3774,7 +3774,7 @@
     },
     {
       "date": "2026-08-31",
-      "hours": 6.36
+      "hours": 6.64
     }
   ],
   "timeline": [
@@ -3920,7 +3920,7 @@
       "hard_end": "2026-09-06",
       "projected": 406,
       "has_data": true,
-      "generated_at": "2026-08-31T16:10:13+12:00",
+      "generated_at": "2026-08-31T16:25:12+12:00",
       "source": "sheet"
     }
   }
