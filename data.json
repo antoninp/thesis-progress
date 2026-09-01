@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-09-01T03:57:30+00:00",
-  "generated_at_nz": "2026-09-01T15:52:57+12:00",
+  "generated_at_utc": "2026-09-01T04:12:31+00:00",
+  "generated_at_nz": "2026-09-01T16:10:48+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -61,12 +61,12 @@
     "week_start": "2026-08-31",
     "plan_chapter": "ch4 Findings",
     "current_chapter": "ch3 Methodology",
-    "hours_total": 251.1,
-    "hours_this_week": 10.9,
+    "hours_total": 251.4,
+    "hours_this_week": 11.1,
     "words_per_hour": 73,
     "hours_latex_total": 21.8,
     "hours_system_total": 208.9,
-    "hours_combined_total": 351.2
+    "hours_combined_total": 351.5
   },
   "chapters": [
     {
@@ -104,9 +104,9 @@
       "citations": 165,
       "render_words": 544,
       "words": 4562,
-      "latex_prose": 3985,
+      "latex_prose": 3988,
       "latex_render": 419,
-      "latex_words": 4404,
+      "latex_words": 4407,
       "floor": 5000,
       "max": 6000,
       "percent_of_floor": 91.2
@@ -141,8 +141,8 @@
     }
   ],
   "latex": {
-    "total_prose": 18317,
-    "total_words": 21241,
+    "total_prose": 18320,
+    "total_words": 21244,
     "target": 30000,
     "percent_of_target": 70.8
   },
@@ -2218,8 +2218,8 @@
     },
     {
       "date": "2026-09-01",
-      "added": 138,
-      "removed": 76
+      "added": 143,
+      "removed": 78
     }
   ],
   "daily_hours": [
@@ -2617,7 +2617,7 @@
     },
     {
       "date": "2026-09-01",
-      "hours": 3.11
+      "hours": 3.36
     }
   ],
   "daily_hours_latex": [
@@ -3811,7 +3811,7 @@
     },
     {
       "date": "2026-09-01",
-      "hours": 4.62
+      "hours": 4.87
     }
   ],
   "timeline": [
@@ -3939,25 +3939,25 @@
   },
   "data_collection": {
     "headline": {
-      "total": 460,
+      "total": 462,
       "target": 400,
       "floor": 250,
-      "percent": 115.0,
-      "percent_of_floor": 184.0,
+      "percent": 115.5,
+      "percent_of_floor": 184.8,
       "days_left": -23,
       "days_to_hard": 5,
       "start": "2026-05-29",
       "end": "2026-08-09",
-      "pace_per_day": 22.6,
+      "pace_per_day": 22.9,
       "avg_per_day": 9.4,
       "needed_per_day": null,
       "needed_per_day_floor": null,
       "best_day": 42,
       "best_day_date": "2026-08-28",
       "hard_end": "2026-09-06",
-      "projected": 460,
+      "projected": 462,
       "has_data": true,
-      "generated_at": "2026-09-01T15:56:26+12:00",
+      "generated_at": "2026-09-01T16:11:14+12:00",
       "source": "sheet"
     }
   }
