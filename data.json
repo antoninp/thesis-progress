@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-09-01T22:25:34+00:00",
-  "generated_at_nz": "2026-09-02T10:25:05+12:00",
+  "generated_at_utc": "2026-09-01T22:40:39+00:00",
+  "generated_at_nz": "2026-09-02T10:40:09+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -60,7 +60,7 @@
     "this_week_percent": 39,
     "week_start": "2026-08-31",
     "plan_chapter": "ch4 Findings",
-    "current_chapter": "ch3 Methodology",
+    "current_chapter": null,
     "hours_total": 251.9,
     "hours_this_week": 11.6,
     "words_per_hour": 73,
@@ -3936,9 +3936,17 @@
       "chapter": "ch3",
       "start": "2026-07-05",
       "planned_end": "2026-08-07",
-      "end": "2026-09-02",
+      "end": "2026-09-01",
       "actual_start": "2026-08-22",
-      "status": "overdue"
+      "status": "done"
+    },
+    {
+      "label": "Ch3 draft to supervisor",
+      "type": "milestone",
+      "start": "2026-09-01",
+      "planned_end": "2026-09-01",
+      "end": "2026-09-01",
+      "status": "done"
     },
     {
       "label": "Run survey",
@@ -3955,9 +3963,9 @@
       "chapter": "ch4",
       "start": "2026-08-08",
       "planned_end": "2026-09-11",
-      "end": "2026-09-11",
-      "actual_start": null,
-      "status": "todo"
+      "end": "2026-09-02",
+      "actual_start": "2026-09-02",
+      "status": "in_progress"
     },
     {
       "label": "Write Conclusions",
@@ -3994,7 +4002,7 @@
       "hard_end": "2026-09-06",
       "projected": 490,
       "has_data": true,
-      "generated_at": "2026-09-02T10:25:10+12:00",
+      "generated_at": "2026-09-02T10:40:13+12:00",
       "source": "sheet"
     }
   }
