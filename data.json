@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-09-06T18:10:23+00:00",
-  "generated_at_nz": "2026-09-07T06:10:03+12:00",
+  "generated_at_utc": "2026-09-06T18:25:33+00:00",
+  "generated_at_nz": "2026-09-07T06:25:05+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -4169,25 +4169,25 @@
   },
   "data_collection": {
     "headline": {
-      "total": 460,
+      "total": 461,
       "target": 400,
       "floor": 250,
-      "percent": 115.0,
-      "percent_of_floor": 184.0,
+      "percent": 115.3,
+      "percent_of_floor": 184.4,
       "days_left": -29,
       "days_to_hard": -1,
       "start": "2026-05-29",
       "end": "2026-08-09",
-      "pace_per_day": 42.1,
+      "pace_per_day": 42.3,
       "avg_per_day": 8.4,
       "needed_per_day": null,
       "needed_per_day_floor": null,
       "best_day": 92,
       "best_day_date": "2026-09-06",
       "hard_end": "2026-09-06",
-      "projected": 460,
+      "projected": 461,
       "has_data": true,
-      "generated_at": "2026-09-07T06:10:06+12:00",
+      "generated_at": "2026-09-07T06:25:09+12:00",
       "source": "sheet"
     }
   }
