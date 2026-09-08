@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-09-08T00:10:47+00:00",
-  "generated_at_nz": "2026-09-08T12:10:07+12:00",
+  "generated_at_utc": "2026-09-08T00:25:45+00:00",
+  "generated_at_nz": "2026-09-08T12:25:05+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -17,56 +17,56 @@
     "chapter_max": 10000
   },
   "totals": {
-    "words": 19357,
-    "final_words": 22798,
+    "words": 19373,
+    "final_words": 22821,
     "inflation_ratio": 1.178,
-    "percent_of_target": 76.0,
-    "percent_final_of_30k": 76.0,
-    "words_remaining": 6115,
-    "final_remaining": 7202,
-    "prose_target": 25472,
-    "prose_target_high": 29717,
+    "percent_of_target": 76.1,
+    "percent_final_of_30k": 76.1,
+    "words_remaining": 6094,
+    "final_remaining": 7179,
+    "prose_target": 25467,
+    "prose_target_high": 29712,
     "days_to_supervisor": 38,
     "days_to_final": 66,
-    "required_wpw_supervisor": 1126,
-    "required_wpw_final": 649,
-    "velocity_7d_wpw": 989,
-    "velocity_14d_wpw": 1518,
-    "velocity_28d_wpw": 1806,
-    "velocity_overall_wpw": 1290,
+    "required_wpw_supervisor": 1123,
+    "required_wpw_final": 646,
+    "velocity_7d_wpw": 1005,
+    "velocity_14d_wpw": 1526,
+    "velocity_28d_wpw": 1810,
+    "velocity_overall_wpw": 1292,
     "writing_start": "2026-05-26",
     "projected_finish": "2026-10-02",
     "projected_finish_overall": "2026-10-11",
-    "projected_finish_7d": "2026-10-21",
+    "projected_finish_7d": "2026-10-20",
     "buffer_days": 14,
     "buffer_overall_days": 5,
-    "pace_margin_wpw": 680,
-    "pace_ratio": 1.6,
+    "pace_margin_wpw": 687,
+    "pace_ratio": 1.61,
     "on_track": true,
     "verdict": "catching_up",
     "plan_start": "2026-04-27",
-    "plan_expected_today": 19844,
-    "behind_words": -487,
-    "behind_days": -3.3,
+    "plan_expected_today": 19841,
+    "behind_words": -468,
+    "behind_days": -3.2,
     "plan_catchup_date": "2026-09-12",
-    "plan_catchup_words": 20501,
+    "plan_catchup_words": 20467,
     "plan_catchup_date_7d": null,
     "plan_catchup_words_7d": null,
     "plan_catchup_date_overall": "2026-09-21",
-    "plan_catchup_words_overall": 21835,
-    "this_week_added": 872,
-    "today_added": 216,
+    "plan_catchup_words_overall": 21740,
+    "this_week_added": 888,
+    "today_added": 232,
     "this_week_goal": 1300,
-    "this_week_percent": 67,
+    "this_week_percent": 68,
     "week_start": "2026-09-07",
     "plan_chapter": "ch4 Findings",
     "current_chapter": "ch4 Findings",
-    "hours_total": 261.5,
-    "hours_this_week": 7.1,
+    "hours_total": 261.7,
+    "hours_this_week": 7.3,
     "words_per_hour": 74,
     "hours_latex_total": 25.0,
     "hours_system_total": 223.7,
-    "hours_combined_total": 372.2
+    "hours_combined_total": 372.4
   },
   "chapters": [
     {
@@ -114,16 +114,16 @@
     {
       "key": "ch4",
       "title": "Findings",
-      "prose_words": 908,
-      "citations": 28,
-      "render_words": 92,
-      "words": 1000,
+      "prose_words": 924,
+      "citations": 30,
+      "render_words": 99,
+      "words": 1023,
       "latex_prose": 2,
       "latex_render": 0,
       "latex_words": 2,
       "floor": 8000,
       "max": 10000,
-      "percent_of_floor": 12.5
+      "percent_of_floor": 12.8
     },
     {
       "key": "ch5",
@@ -1409,13 +1409,13 @@
     },
     {
       "date": "2026-09-08",
-      "prose": 19357,
-      "final": 22798,
+      "prose": 19373,
+      "final": 22821,
       "chapters": {
         "ch1": 7475,
         "ch2": 9660,
         "ch3": 4663,
-        "ch4": 1000,
+        "ch4": 1023,
         "ch5": 0
       }
     }
@@ -1839,7 +1839,7 @@
     },
     {
       "date": "2026-09-08",
-      "added": 216
+      "added": 232
     }
   ],
   "daily_churn": [
@@ -2365,7 +2365,7 @@
     },
     {
       "date": "2026-09-08",
-      "added": 179,
+      "added": 215,
       "removed": 0
     }
   ],
@@ -2792,7 +2792,7 @@
     },
     {
       "date": "2026-09-08",
-      "hours": 0.75
+      "hours": 0.96
     }
   ],
   "daily_hours_latex": [
@@ -4070,7 +4070,7 @@
     },
     {
       "date": "2026-09-08",
-      "hours": 0.76
+      "hours": 0.97
     }
   ],
   "timeline": [
@@ -4224,7 +4224,7 @@
       "hard_end": "2026-09-06",
       "projected": 527,
       "has_data": true,
-      "generated_at": "2026-09-08T12:10:12+12:00",
+      "generated_at": "2026-09-08T12:25:12+12:00",
       "source": "sheet"
     }
   }
