@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-09-15T21:41:22+00:00",
-  "generated_at_nz": "2026-09-16T09:40:07+12:00",
+  "generated_at_utc": "2026-09-15T21:55:49+00:00",
+  "generated_at_nz": "2026-09-16T09:55:11+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -61,12 +61,15 @@
     "week_start": "2026-09-14",
     "plan_chapter": "ch5 Conclusions",
     "current_chapter": "ch4 Findings",
+    "chapter_schedule": "behind",
+    "chapters_behind": 1,
+    "current_chapter_days_late": 5,
     "hours_total": 289.8,
     "hours_this_week": 9.4,
     "words_per_hour": 77,
     "hours_latex_total": 31.7,
-    "hours_system_total": 244.4,
-    "hours_combined_total": 408.6
+    "hours_system_total": 244.7,
+    "hours_combined_total": 408.8
   },
   "chapters": [
     {
@@ -3908,7 +3911,7 @@
     },
     {
       "date": "2026-09-16",
-      "hours": 0.0
+      "hours": 0.25
     }
   ],
   "daily_hours_combined": [
@@ -4366,7 +4369,7 @@
     },
     {
       "date": "2026-09-16",
-      "hours": 0.0
+      "hours": 0.25
     }
   ],
   "timeline": [
@@ -4494,6 +4497,23 @@
       "end": "2026-10-15",
       "actual_start": "2026-06-17",
       "status": "todo"
+    },
+    {
+      "label": "Revise drafts",
+      "type": "bar",
+      "start": "2026-10-16",
+      "planned_end": "2026-11-13",
+      "end": "2026-11-13",
+      "actual_start": null,
+      "status": "todo"
+    },
+    {
+      "label": "Final Submission",
+      "type": "milestone",
+      "start": "2026-11-13",
+      "planned_end": "2026-11-13",
+      "end": "2026-11-13",
+      "status": "todo"
     }
   ],
   "pipeline": [],
@@ -4523,7 +4543,7 @@
       "hard_end": "2026-10-05",
       "projected": 489,
       "has_data": true,
-      "generated_at": "2026-09-16T09:40:16+12:00",
+      "generated_at": "2026-09-16T09:55:16+12:00",
       "source": "sheet"
     }
   }
