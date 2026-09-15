@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-09-15T13:10:32+00:00",
-  "generated_at_nz": "2026-09-16T01:10:03+12:00",
+  "generated_at_utc": "2026-09-15T13:25:32+00:00",
+  "generated_at_nz": "2026-09-16T01:25:03+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -4523,7 +4523,7 @@
       "hard_end": "2026-10-05",
       "projected": 489,
       "has_data": true,
-      "generated_at": "2026-09-16T01:10:07+12:00",
+      "generated_at": "2026-09-16T01:25:07+12:00",
       "source": "sheet"
     }
   }
