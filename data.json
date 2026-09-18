@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-09-18T05:25:33+00:00",
-  "generated_at_nz": "2026-09-18T17:25:05+12:00",
+  "generated_at_utc": "2026-09-18T05:40:36+00:00",
+  "generated_at_nz": "2026-09-18T17:40:05+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -17,21 +17,21 @@
     "chapter_max": 10000
   },
   "totals": {
-    "words": 23562,
-    "final_words": 27432,
+    "words": 23558,
+    "final_words": 27431,
     "inflation_ratio": 1.164,
     "percent_of_target": 91.4,
     "percent_final_of_30k": 91.4,
     "words_remaining": 2206,
-    "final_remaining": 2568,
-    "prose_target": 25768,
-    "prose_target_high": 30062,
+    "final_remaining": 2569,
+    "prose_target": 25764,
+    "prose_target_high": 30058,
     "days_to_supervisor": 28,
     "days_to_final": 56,
     "required_wpw_supervisor": 552,
     "required_wpw_final": 276,
-    "velocity_7d_wpw": 2652,
-    "velocity_14d_wpw": 2579,
+    "velocity_7d_wpw": 2648,
+    "velocity_14d_wpw": 2577,
     "velocity_28d_wpw": 2304,
     "velocity_overall_wpw": 1434,
     "writing_start": "2026-05-26",
@@ -40,22 +40,22 @@
     "projected_finish_7d": "2026-09-24",
     "buffer_days": 21,
     "buffer_overall_days": 17,
-    "pace_margin_wpw": 1753,
+    "pace_margin_wpw": 1752,
     "pace_ratio": 4.18,
     "on_track": true,
     "verdict": "ahead",
     "plan_start": "2026-04-27",
-    "plan_expected_today": 21573,
-    "behind_words": 1989,
+    "plan_expected_today": 21570,
+    "behind_words": 1988,
     "behind_days": 13.3,
     "plan_catchup_date": "2026-09-18",
-    "plan_catchup_words": 23562,
+    "plan_catchup_words": 23558,
     "plan_catchup_date_7d": "2026-09-18",
-    "plan_catchup_words_7d": 23562,
+    "plan_catchup_words_7d": 23558,
     "plan_catchup_date_overall": "2026-09-18",
-    "plan_catchup_words_overall": 23562,
-    "this_week_added": 2241,
-    "today_added": 71,
+    "plan_catchup_words_overall": 23558,
+    "this_week_added": 2237,
+    "today_added": 67,
     "this_week_goal": 1300,
     "this_week_percent": 172,
     "week_start": "2026-09-14",
@@ -64,12 +64,12 @@
     "chapter_schedule": "behind",
     "chapters_behind": 1,
     "current_chapter_days_late": 7,
-    "hours_total": 298.2,
-    "hours_this_week": 17.7,
+    "hours_total": 298.5,
+    "hours_this_week": 18.0,
     "words_per_hour": 79,
     "hours_latex_total": 31.7,
     "hours_system_total": 249.4,
-    "hours_combined_total": 418.5
+    "hours_combined_total": 418.8
   },
   "chapters": [
     {
@@ -117,10 +117,10 @@
     {
       "key": "ch4",
       "title": "Findings",
-      "prose_words": 5116,
-      "citations": 157,
-      "render_words": 518,
-      "words": 5634,
+      "prose_words": 5112,
+      "citations": 158,
+      "render_words": 521,
+      "words": 5633,
       "latex_prose": 2,
       "latex_render": 0,
       "latex_words": 2,
@@ -1532,13 +1532,13 @@
     },
     {
       "date": "2026-09-18",
-      "prose": 23562,
-      "final": 27432,
+      "prose": 23558,
+      "final": 27431,
       "chapters": {
         "ch1": 7472,
         "ch2": 9660,
         "ch3": 4666,
-        "ch4": 5634,
+        "ch4": 5633,
         "ch5": 0
       }
     }
@@ -2002,7 +2002,7 @@
     },
     {
       "date": "2026-09-18",
-      "added": 71
+      "added": 67
     }
   ],
   "daily_churn": [
@@ -2578,7 +2578,7 @@
     },
     {
       "date": "2026-09-18",
-      "added": 32,
+      "added": 73,
       "removed": 2
     }
   ],
@@ -3045,7 +3045,7 @@
     },
     {
       "date": "2026-09-18",
-      "hours": 0.25
+      "hours": 0.5
     }
   ],
   "daily_hours_latex": [
@@ -4443,7 +4443,7 @@
     },
     {
       "date": "2026-09-18",
-      "hours": 0.25
+      "hours": 0.5
     }
   ],
   "timeline": [
@@ -4617,7 +4617,7 @@
       "hard_end": "2026-10-05",
       "projected": 489,
       "has_data": true,
-      "generated_at": "2026-09-18T17:25:09+12:00",
+      "generated_at": "2026-09-18T17:40:10+12:00",
       "source": "sheet"
     }
   }
