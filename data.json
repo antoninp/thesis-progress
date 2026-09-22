@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-09-22T07:55:39+00:00",
-  "generated_at_nz": "2026-09-22T19:55:07+12:00",
+  "generated_at_utc": "2026-09-22T08:10:45+00:00",
+  "generated_at_nz": "2026-09-22T20:10:09+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -17,22 +17,22 @@
     "chapter_max": 10000
   },
   "totals": {
-    "words": 24613,
-    "final_words": 28625,
+    "words": 24610,
+    "final_words": 28622,
     "inflation_ratio": 1.163,
     "percent_of_target": 95.4,
     "percent_final_of_30k": 95.4,
-    "words_remaining": 1182,
-    "final_remaining": 1375,
+    "words_remaining": 1185,
+    "final_remaining": 1378,
     "prose_target": 25795,
     "prose_target_high": 30094,
     "days_to_supervisor": 24,
     "days_to_final": 52,
-    "required_wpw_supervisor": 345,
-    "required_wpw_final": 159,
-    "velocity_7d_wpw": 2225,
-    "velocity_14d_wpw": 2336,
-    "velocity_28d_wpw": 2073,
+    "required_wpw_supervisor": 346,
+    "required_wpw_final": 160,
+    "velocity_7d_wpw": 2222,
+    "velocity_14d_wpw": 2334,
+    "velocity_28d_wpw": 2072,
     "velocity_overall_wpw": 1448,
     "writing_start": "2026-05-26",
     "projected_finish": "2026-09-26",
@@ -40,22 +40,22 @@
     "projected_finish_7d": "2026-09-26",
     "buffer_days": 20,
     "buffer_overall_days": 18,
-    "pace_margin_wpw": 1728,
-    "pace_ratio": 6.01,
+    "pace_margin_wpw": 1727,
+    "pace_ratio": 6.0,
     "on_track": true,
     "verdict": "ahead",
     "plan_start": "2026-04-27",
     "plan_expected_today": 22196,
-    "behind_words": 2417,
+    "behind_words": 2414,
     "behind_days": 16.1,
     "plan_catchup_date": "2026-09-22",
-    "plan_catchup_words": 24613,
+    "plan_catchup_words": 24610,
     "plan_catchup_date_7d": "2026-09-22",
-    "plan_catchup_words_7d": 24613,
+    "plan_catchup_words_7d": 24610,
     "plan_catchup_date_overall": "2026-09-22",
-    "plan_catchup_words_overall": 24613,
-    "this_week_added": 782,
-    "today_added": 131,
+    "plan_catchup_words_overall": 24610,
+    "this_week_added": 779,
+    "today_added": 128,
     "this_week_goal": 1300,
     "this_week_percent": 60,
     "week_start": "2026-09-21",
@@ -64,12 +64,12 @@
     "chapter_schedule": "behind",
     "chapters_behind": 1,
     "current_chapter_days_late": 11,
-    "hours_total": 313.9,
-    "hours_this_week": 10.2,
+    "hours_total": 314.1,
+    "hours_this_week": 10.4,
     "words_per_hour": 78,
     "hours_latex_total": 33.7,
     "hours_system_total": 264.3,
-    "hours_combined_total": 440.9
+    "hours_combined_total": 441.2
   },
   "chapters": [
     {
@@ -117,10 +117,10 @@
     {
       "key": "ch4",
       "title": "Findings",
-      "prose_words": 6137,
+      "prose_words": 6134,
       "citations": 194,
       "render_words": 640,
-      "words": 6777,
+      "words": 6774,
       "latex_prose": 2,
       "latex_render": 0,
       "latex_words": 2,
@@ -1580,13 +1580,13 @@
     },
     {
       "date": "2026-09-22",
-      "prose": 24613,
-      "final": 28625,
+      "prose": 24610,
+      "final": 28622,
       "chapters": {
         "ch1": 7472,
         "ch2": 9659,
         "ch3": 4717,
-        "ch4": 6777,
+        "ch4": 6774,
         "ch5": 0
       }
     }
@@ -2066,7 +2066,7 @@
     },
     {
       "date": "2026-09-22",
-      "added": 131
+      "added": 128
     }
   ],
   "daily_churn": [
@@ -2662,8 +2662,8 @@
     },
     {
       "date": "2026-09-22",
-      "added": 210,
-      "removed": 84
+      "added": 229,
+      "removed": 98
     }
   ],
   "daily_hours": [
@@ -3145,7 +3145,7 @@
     },
     {
       "date": "2026-09-22",
-      "hours": 4.22
+      "hours": 4.47
     }
   ],
   "daily_hours_latex": [
@@ -4591,7 +4591,7 @@
     },
     {
       "date": "2026-09-22",
-      "hours": 7.2
+      "hours": 7.45
     }
   ],
   "timeline": [
@@ -4765,7 +4765,7 @@
       "hard_end": "2026-10-05",
       "projected": 489,
       "has_data": true,
-      "generated_at": "2026-09-22T19:55:12+12:00",
+      "generated_at": "2026-09-22T20:10:14+12:00",
       "source": "sheet"
     }
   }
