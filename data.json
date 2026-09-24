@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-09-24T06:25:44+00:00",
-  "generated_at_nz": "2026-09-24T18:25:11+12:00",
+  "generated_at_utc": "2026-09-24T06:40:49+00:00",
+  "generated_at_nz": "2026-09-24T18:40:06+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -17,20 +17,20 @@
     "chapter_max": 10000
   },
   "totals": {
-    "words": 25151,
-    "final_words": 29253,
+    "words": 25152,
+    "final_words": 29254,
     "inflation_ratio": 1.163,
     "percent_of_target": 97.5,
     "percent_final_of_30k": 97.5,
-    "words_remaining": 642,
-    "final_remaining": 747,
+    "words_remaining": 641,
+    "final_remaining": 746,
     "prose_target": 25793,
     "prose_target_high": 30092,
     "days_to_supervisor": 22,
     "days_to_final": 50,
     "required_wpw_supervisor": 204,
     "required_wpw_final": 90,
-    "velocity_7d_wpw": 1660,
+    "velocity_7d_wpw": 1661,
     "velocity_14d_wpw": 2206,
     "velocity_28d_wpw": 2034,
     "velocity_overall_wpw": 1455,
@@ -40,22 +40,22 @@
     "projected_finish_7d": "2026-09-27",
     "buffer_days": 20,
     "buffer_overall_days": 19,
-    "pace_margin_wpw": 1829,
-    "pace_ratio": 9.95,
+    "pace_margin_wpw": 1830,
+    "pace_ratio": 9.97,
     "on_track": true,
     "verdict": "ahead",
     "plan_start": "2026-04-27",
     "plan_expected_today": 22494,
-    "behind_words": 2657,
+    "behind_words": 2658,
     "behind_days": 17.7,
     "plan_catchup_date": "2026-09-24",
-    "plan_catchup_words": 25151,
+    "plan_catchup_words": 25152,
     "plan_catchup_date_7d": "2026-09-24",
-    "plan_catchup_words_7d": 25151,
+    "plan_catchup_words_7d": 25152,
     "plan_catchup_date_overall": "2026-09-24",
-    "plan_catchup_words_overall": 25151,
-    "this_week_added": 1320,
-    "today_added": 136,
+    "plan_catchup_words_overall": 25152,
+    "this_week_added": 1321,
+    "today_added": 137,
     "this_week_goal": 1300,
     "this_week_percent": 102,
     "week_start": "2026-09-21",
@@ -64,12 +64,12 @@
     "chapter_schedule": "behind",
     "chapters_behind": 1,
     "current_chapter_days_late": 13,
-    "hours_total": 322.8,
-    "hours_this_week": 19.1,
+    "hours_total": 323.1,
+    "hours_this_week": 19.4,
     "words_per_hour": 78,
     "hours_latex_total": 34.6,
-    "hours_system_total": 271.5,
-    "hours_combined_total": 452.6
+    "hours_system_total": 271.7,
+    "hours_combined_total": 452.9
   },
   "chapters": [
     {
@@ -117,10 +117,10 @@
     {
       "key": "ch4",
       "title": "Findings",
-      "prose_words": 6405,
+      "prose_words": 6406,
       "citations": 209,
       "render_words": 690,
-      "words": 7095,
+      "words": 7096,
       "latex_prose": 5974,
       "latex_render": 208,
       "latex_words": 6182,
@@ -1604,13 +1604,13 @@
     },
     {
       "date": "2026-09-24",
-      "prose": 25151,
-      "final": 29253,
+      "prose": 25152,
+      "final": 29254,
       "chapters": {
         "ch1": 7467,
         "ch2": 9659,
         "ch3": 5032,
-        "ch4": 7095,
+        "ch4": 7096,
         "ch5": 0
       }
     }
@@ -2098,7 +2098,7 @@
     },
     {
       "date": "2026-09-24",
-      "added": 136
+      "added": 137
     }
   ],
   "daily_churn": [
@@ -2704,8 +2704,8 @@
     },
     {
       "date": "2026-09-24",
-      "added": 151,
-      "removed": 11
+      "added": 170,
+      "removed": 34
     }
   ],
   "daily_hours": [
@@ -3195,7 +3195,7 @@
     },
     {
       "date": "2026-09-24",
-      "hours": 1.49
+      "hours": 1.74
     }
   ],
   "daily_hours_latex": [
@@ -4175,7 +4175,7 @@
     },
     {
       "date": "2026-09-24",
-      "hours": 0.75
+      "hours": 1.0
     }
   ],
   "daily_hours_combined": [
@@ -4665,7 +4665,7 @@
     },
     {
       "date": "2026-09-24",
-      "hours": 1.75
+      "hours": 2.0
     }
   ],
   "timeline": [
@@ -4839,7 +4839,7 @@
       "hard_end": "2026-10-05",
       "projected": 489,
       "has_data": true,
-      "generated_at": "2026-09-24T18:25:15+12:00",
+      "generated_at": "2026-09-24T18:40:11+12:00",
       "source": "sheet"
     }
   }
