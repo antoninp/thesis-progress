@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-09-25T22:40:47+00:00",
-  "generated_at_nz": "2026-09-26T10:40:06+12:00",
+  "generated_at_utc": "2026-09-25T22:56:57+00:00",
+  "generated_at_nz": "2026-09-26T10:56:10+12:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -60,10 +60,10 @@
     "this_week_percent": 103,
     "week_start": "2026-09-21",
     "plan_chapter": "ch5 Conclusions",
-    "current_chapter": "ch4 Findings",
-    "chapter_schedule": "behind",
-    "chapters_behind": 1,
-    "current_chapter_days_late": 15,
+    "current_chapter": "ch5 Conclusions",
+    "chapter_schedule": "on_schedule",
+    "chapters_behind": 0,
+    "current_chapter_days_late": -19,
     "hours_total": 323.8,
     "hours_this_week": 20.1,
     "words_per_hour": 78,
@@ -4854,9 +4854,17 @@
       "chapter": "ch4",
       "start": "2026-08-08",
       "planned_end": "2026-09-11",
-      "end": "2026-09-26",
+      "end": "2026-09-25",
       "actual_start": "2026-09-02",
-      "status": "overdue"
+      "status": "done"
+    },
+    {
+      "label": "Ch4 draft to supervisor",
+      "type": "milestone",
+      "start": "2026-09-25",
+      "planned_end": "2026-09-25",
+      "end": "2026-09-25",
+      "status": "done"
     },
     {
       "label": "Write Conclusions",
@@ -4864,9 +4872,9 @@
       "chapter": "ch5",
       "start": "2026-09-12",
       "planned_end": "2026-10-15",
-      "end": "2026-10-15",
-      "actual_start": "2026-06-17",
-      "status": "todo"
+      "end": "2026-09-26",
+      "actual_start": "2026-09-26",
+      "status": "in_progress"
     },
     {
       "label": "Revise drafts",
@@ -4913,7 +4921,7 @@
       "hard_end": "2026-10-05",
       "projected": 489,
       "has_data": true,
-      "generated_at": "2026-09-26T10:40:10+12:00",
+      "generated_at": "2026-09-26T10:56:16+12:00",
       "source": "sheet"
     }
   }
