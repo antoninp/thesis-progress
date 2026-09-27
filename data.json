@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-09-27T22:55:41+00:00",
-  "generated_at_nz": "2026-09-28T11:55:05+13:00",
+  "generated_at_utc": "2026-09-27T23:10:42+00:00",
+  "generated_at_nz": "2026-09-28T12:10:06+13:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -10,7 +10,13 @@
     ],
     "deadlines": {
       "supervisor": "2026-10-16",
+      "supervisor_full": "2026-10-30",
       "final": "2026-11-13"
+    },
+    "deadline_labels": {
+      "supervisor": "drafts",
+      "supervisor_full": "full thesis",
+      "final": "final"
     },
     "citation_render_words": 3.3,
     "weekly_goal": 1300,
@@ -27,6 +33,7 @@
     "prose_target": 25796,
     "prose_target_high": 30095,
     "days_to_supervisor": 18,
+    "days_to_supervisor_full": 32,
     "days_to_final": 46,
     "required_wpw_supervisor": 244,
     "required_wpw_final": 95,
@@ -64,12 +71,12 @@
     "chapter_schedule": "on_schedule",
     "chapters_behind": 0,
     "current_chapter_days_late": -17,
-    "hours_total": 324.1,
-    "hours_this_week": 0,
+    "hours_total": 324.3,
+    "hours_this_week": 0.2,
     "words_per_hour": 78,
     "hours_latex_total": 39.3,
-    "hours_system_total": 277.1,
-    "hours_combined_total": 460.1
+    "hours_system_total": 277.4,
+    "hours_combined_total": 460.4
   },
   "chapters": [
     {
@@ -3295,7 +3302,7 @@
     },
     {
       "date": "2026-09-28",
-      "hours": 0.0
+      "hours": 0.25
     }
   ],
   "daily_hours_latex": [
@@ -4307,7 +4314,7 @@
     },
     {
       "date": "2026-09-28",
-      "hours": 0.0
+      "hours": 0.25
     }
   ],
   "daily_hours_combined": [
@@ -4813,7 +4820,7 @@
     },
     {
       "date": "2026-09-28",
-      "hours": 0.0
+      "hours": 0.26
     }
   ],
   "timeline": [
@@ -4951,11 +4958,45 @@
       "status": "in_progress"
     },
     {
-      "label": "Revise drafts",
+      "label": "Ch5 draft to supervisor",
+      "type": "milestone",
+      "start": "2026-10-16",
+      "planned_end": "2026-10-16",
+      "end": "2026-10-16",
+      "status": "todo"
+    },
+    {
+      "label": "Revise thesis",
       "type": "bar",
       "start": "2026-10-16",
-      "planned_end": "2026-11-13",
-      "end": "2026-11-13",
+      "planned_end": "2026-10-29",
+      "end": "2026-10-29",
+      "actual_start": null,
+      "status": "todo"
+    },
+    {
+      "label": "Full thesis to supervisor",
+      "type": "milestone",
+      "start": "2026-10-30",
+      "planned_end": "2026-10-30",
+      "end": "2026-10-30",
+      "status": "todo"
+    },
+    {
+      "label": "Supervisor review",
+      "type": "bar",
+      "start": "2026-10-31",
+      "planned_end": "2026-11-06",
+      "end": "2026-11-06",
+      "actual_start": null,
+      "status": "todo"
+    },
+    {
+      "label": "Final changes",
+      "type": "bar",
+      "start": "2026-11-07",
+      "planned_end": "2026-11-12",
+      "end": "2026-11-12",
       "actual_start": null,
       "status": "todo"
     },
@@ -4995,7 +5036,7 @@
       "hard_end": "2026-10-05",
       "projected": 489,
       "has_data": true,
-      "generated_at": "2026-09-28T11:55:09+13:00",
+      "generated_at": "2026-09-28T12:10:10+13:00",
       "source": "sheet"
     }
   }
