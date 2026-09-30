@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-09-30T01:55:47+00:00",
-  "generated_at_nz": "2026-09-30T14:55:06+13:00",
+  "generated_at_utc": "2026-09-30T02:10:47+00:00",
+  "generated_at_nz": "2026-09-30T15:10:07+13:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -23,48 +23,48 @@
     "chapter_max": 10000
   },
   "totals": {
-    "words": 26840,
-    "final_words": 31038,
+    "words": 26867,
+    "final_words": 31065,
     "inflation_ratio": 1.156,
     "percent_of_target": 103.5,
-    "percent_final_of_30k": 103.5,
+    "percent_final_of_30k": 103.6,
     "words_remaining": 0,
     "final_remaining": 0,
-    "prose_target": 25942,
-    "prose_target_high": 30266,
+    "prose_target": 25946,
+    "prose_target_high": 30270,
     "days_to_supervisor": 16,
     "days_to_supervisor_full": 30,
     "days_to_final": 44,
     "required_wpw_supervisor": 0,
     "required_wpw_final": 0,
-    "velocity_7d_wpw": 1825,
-    "velocity_14d_wpw": 1784,
-    "velocity_28d_wpw": 2112,
-    "velocity_overall_wpw": 1479,
+    "velocity_7d_wpw": 1852,
+    "velocity_14d_wpw": 1798,
+    "velocity_28d_wpw": 2119,
+    "velocity_overall_wpw": 1481,
     "writing_start": "2026-05-26",
     "projected_finish": null,
     "projected_finish_overall": null,
     "projected_finish_7d": null,
     "buffer_days": null,
     "buffer_overall_days": null,
-    "pace_margin_wpw": 2112,
+    "pace_margin_wpw": 2119,
     "pace_ratio": null,
     "on_track": true,
     "verdict": "target_reached",
     "plan_start": "2026-04-27",
-    "plan_expected_today": 23529,
-    "behind_words": 3311,
-    "behind_days": 22.0,
+    "plan_expected_today": 23532,
+    "behind_words": 3335,
+    "behind_days": 22.1,
     "plan_catchup_date": "2026-09-30",
-    "plan_catchup_words": 26840,
+    "plan_catchup_words": 26867,
     "plan_catchup_date_7d": "2026-09-30",
-    "plan_catchup_words_7d": 26840,
+    "plan_catchup_words_7d": 26867,
     "plan_catchup_date_overall": "2026-09-30",
-    "plan_catchup_words_overall": 26840,
-    "this_week_added": 1671,
-    "today_added": 365,
+    "plan_catchup_words_overall": 26867,
+    "this_week_added": 1698,
+    "today_added": 392,
     "this_week_goal": 1300,
-    "this_week_percent": 129,
+    "this_week_percent": 131,
     "week_start": "2026-09-28",
     "plan_chapter": "ch5 Conclusions",
     "current_chapter": "ch5 Conclusions",
@@ -75,8 +75,8 @@
     "hours_this_week": 13.9,
     "words_per_hour": 79,
     "hours_latex_total": 39.3,
-    "hours_system_total": 285.9,
-    "hours_combined_total": 475.6
+    "hours_system_total": 286.1,
+    "hours_combined_total": 475.8
   },
   "chapters": [
     {
@@ -138,16 +138,16 @@
     {
       "key": "ch5",
       "title": "Conclusions",
-      "prose_words": 1673,
+      "prose_words": 1700,
       "citations": 29,
       "render_words": 96,
-      "words": 1769,
+      "words": 1796,
       "latex_prose": 2,
       "latex_render": 0,
       "latex_words": 2,
       "floor": 3000,
       "max": 4000,
-      "percent_of_floor": 59.0
+      "percent_of_floor": 59.9
     }
   ],
   "latex": {
@@ -1683,14 +1683,14 @@
     },
     {
       "date": "2026-09-30",
-      "prose": 26840,
-      "final": 31038,
+      "prose": 26867,
+      "final": 31065,
       "chapters": {
         "ch1": 7467,
         "ch2": 9659,
         "ch3": 5032,
         "ch4": 7111,
-        "ch5": 1769
+        "ch5": 1796
       }
     }
   ],
@@ -2201,7 +2201,7 @@
     },
     {
       "date": "2026-09-30",
-      "added": 365
+      "added": 392
     }
   ],
   "daily_churn": [
@@ -4380,7 +4380,7 @@
     },
     {
       "date": "2026-09-30",
-      "hours": 1.98
+      "hours": 2.22
     }
   ],
   "daily_hours_combined": [
@@ -4894,7 +4894,7 @@
     },
     {
       "date": "2026-09-30",
-      "hours": 2.74
+      "hours": 2.98
     }
   ],
   "timeline": [
@@ -5101,7 +5101,7 @@
       "hard_end": "2026-10-05",
       "projected": 489,
       "has_data": true,
-      "generated_at": "2026-09-30T14:55:13+13:00",
+      "generated_at": "2026-09-30T15:10:13+13:00",
       "source": "sheet"
     }
   }
