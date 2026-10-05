@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-10-05T07:26:24+00:00",
-  "generated_at_nz": "2026-10-05T20:25:14+13:00",
+  "generated_at_utc": "2026-10-05T21:41:37+00:00",
+  "generated_at_nz": "2026-10-06T10:40:14+13:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -32,45 +32,49 @@
     "final_remaining": 0,
     "prose_target": 26149,
     "prose_target_high": 30507,
-    "days_to_supervisor": 11,
-    "days_to_supervisor_full": 25,
-    "days_to_final": 39,
+    "days_to_supervisor": 10,
+    "days_to_supervisor_full": 24,
+    "days_to_final": 38,
     "required_wpw_supervisor": 0,
     "required_wpw_final": 0,
-    "velocity_7d_wpw": 3349,
-    "velocity_14d_wpw": 2367,
-    "velocity_28d_wpw": 2519,
-    "velocity_overall_wpw": 1549,
+    "velocity_7d_wpw": 2741,
+    "velocity_14d_wpw": 2292,
+    "velocity_28d_wpw": 2319,
+    "velocity_overall_wpw": 1538,
     "writing_start": "2026-05-26",
     "projected_finish": null,
     "projected_finish_overall": null,
     "projected_finish_7d": null,
     "buffer_days": null,
     "buffer_overall_days": null,
-    "pace_margin_wpw": 2519,
+    "pace_margin_wpw": 2319,
     "pace_ratio": null,
     "on_track": true,
     "verdict": "target_reached",
     "plan_start": "2026-04-27",
-    "plan_expected_today": 24477,
-    "behind_words": 4739,
-    "behind_days": 31.2,
-    "plan_catchup_date": "2026-10-05",
+    "plan_expected_today": 24629,
+    "behind_words": 4587,
+    "behind_days": 30.2,
+    "plan_catchup_date": "2026-10-06",
     "plan_catchup_words": 29216,
-    "plan_catchup_date_7d": "2026-10-05",
+    "plan_catchup_date_7d": "2026-10-06",
     "plan_catchup_words_7d": 29216,
-    "plan_catchup_date_overall": "2026-10-05",
+    "plan_catchup_date_overall": "2026-10-06",
     "plan_catchup_words_overall": 29216,
     "this_week_added": 537,
-    "today_added": 537,
+    "today_added": 0,
     "this_week_goal": 1300,
     "this_week_percent": 41,
     "week_start": "2026-10-05",
     "plan_chapter": "ch5 Conclusions",
-    "current_chapter": "ch5 Conclusions",
-    "chapter_schedule": "on_schedule",
-    "chapters_behind": 0,
-    "current_chapter_days_late": -11,
+    "current_chapter": null,
+    "all_chapters_done": true,
+    "current_phase": "Revise thesis",
+    "drafting_days_early": 11,
+    "all_chapters_done_date": "2026-10-05",
+    "chapter_schedule": "ahead",
+    "chapters_behind": null,
+    "current_chapter_days_late": null,
     "hours_total": 359.1,
     "hours_this_week": 6.2,
     "words_per_hour": 81,
@@ -1752,6 +1756,18 @@
         "ch4": 7111,
         "ch5": 4247
       }
+    },
+    {
+      "date": "2026-10-06",
+      "prose": 29216,
+      "final": 33519,
+      "chapters": {
+        "ch1": 7470,
+        "ch2": 9659,
+        "ch3": 5032,
+        "ch4": 7111,
+        "ch5": 4247
+      }
     }
   ],
   "daily_added": [
@@ -2282,6 +2298,10 @@
     {
       "date": "2026-10-05",
       "added": 537
+    },
+    {
+      "date": "2026-10-06",
+      "added": 0
     }
   ],
   "daily_churn": [
@@ -2944,6 +2964,11 @@
       "date": "2026-10-05",
       "added": 595,
       "removed": 58
+    },
+    {
+      "date": "2026-10-06",
+      "added": 0,
+      "removed": 0
     }
   ],
   "daily_hours": [
@@ -3478,6 +3503,10 @@
     {
       "date": "2026-10-05",
       "hours": 6.2
+    },
+    {
+      "date": "2026-10-06",
+      "hours": 0.0
     }
   ],
   "daily_hours_latex": [
@@ -4012,6 +4041,10 @@
     {
       "date": "2026-10-05",
       "hours": 0.99
+    },
+    {
+      "date": "2026-10-06",
+      "hours": 0.0
     }
   ],
   "daily_hours_system": [
@@ -4546,6 +4579,10 @@
     {
       "date": "2026-10-05",
       "hours": 4.48
+    },
+    {
+      "date": "2026-10-06",
+      "hours": 0.0
     }
   ],
   "daily_hours_combined": [
@@ -5080,6 +5117,10 @@
     {
       "date": "2026-10-05",
       "hours": 7.24
+    },
+    {
+      "date": "2026-10-06",
+      "hours": 0.0
     }
   ],
   "timeline": [
@@ -5214,24 +5255,24 @@
       "planned_end": "2026-10-16",
       "end": "2026-10-05",
       "actual_start": "2026-09-26",
-      "status": "in_progress"
+      "status": "done"
     },
     {
       "label": "Ch5 draft to supervisor",
       "type": "milestone",
-      "start": "2026-10-16",
-      "planned_end": "2026-10-16",
-      "end": "2026-10-16",
-      "status": "todo"
+      "start": "2026-10-05",
+      "planned_end": "2026-10-05",
+      "end": "2026-10-05",
+      "status": "done"
     },
     {
       "label": "Revise thesis",
       "type": "bar",
       "start": "2026-10-16",
       "planned_end": "2026-10-30",
-      "end": "2026-10-30",
-      "actual_start": null,
-      "status": "todo"
+      "end": "2026-10-06",
+      "actual_start": "2026-10-06",
+      "status": "in_progress"
     },
     {
       "label": "Full thesis to supervisor",
@@ -5273,12 +5314,12 @@
       "closed": true,
       "close": "2026-09-07 13:03",
       "excluded_after_close": 38,
-      "days_left": -28,
-      "days_to_hard": 0,
+      "days_left": -29,
+      "days_to_hard": -1,
       "start": "2026-05-29",
       "end": "2026-09-07",
       "pace_per_day": null,
-      "avg_per_day": 5.9,
+      "avg_per_day": 5.8,
       "needed_per_day": null,
       "needed_per_day_floor": null,
       "best_day": 92,
@@ -5286,7 +5327,7 @@
       "hard_end": "2026-10-05",
       "projected": 489,
       "has_data": true,
-      "generated_at": "2026-10-05T20:25:27+13:00",
+      "generated_at": "2026-10-06T10:40:22+13:00",
       "source": "sheet"
     }
   }
