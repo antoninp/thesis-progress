@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-10-06T04:55:50+00:00",
-  "generated_at_nz": "2026-10-06T17:55:07+13:00",
+  "generated_at_utc": "2026-10-06T05:10:46+00:00",
+  "generated_at_nz": "2026-10-06T18:10:04+13:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -90,9 +90,9 @@
       "citations": 362,
       "render_words": 1195,
       "words": 7483,
-      "latex_prose": 6277,
-      "latex_render": 1132,
-      "latex_words": 7409,
+      "latex_prose": 6281,
+      "latex_render": 1135,
+      "latex_words": 7416,
       "floor": 4000,
       "max": 5000,
       "percent_of_floor": 187.1
@@ -104,9 +104,9 @@
       "citations": 484,
       "render_words": 1597,
       "words": 9659,
-      "latex_prose": 8051,
+      "latex_prose": 8056,
       "latex_render": 1373,
-      "latex_words": 9424,
+      "latex_words": 9429,
       "floor": 8000,
       "max": 10000,
       "percent_of_floor": 120.7
@@ -118,9 +118,9 @@
       "citations": 191,
       "render_words": 630,
       "words": 5078,
-      "latex_prose": 4375,
-      "latex_render": 478,
-      "latex_words": 4853,
+      "latex_prose": 4415,
+      "latex_render": 485,
+      "latex_words": 4900,
       "floor": 5000,
       "max": 6000,
       "percent_of_floor": 101.6
@@ -132,9 +132,9 @@
       "citations": 214,
       "render_words": 706,
       "words": 7479,
-      "latex_prose": 6133,
-      "latex_render": 214,
-      "latex_words": 6347,
+      "latex_prose": 6482,
+      "latex_render": 228,
+      "latex_words": 6710,
       "floor": 8000,
       "max": 10000,
       "percent_of_floor": 93.5
@@ -146,19 +146,19 @@
       "citations": 63,
       "render_words": 208,
       "words": 4319,
-      "latex_prose": 4046,
+      "latex_prose": 4111,
       "latex_render": 20,
-      "latex_words": 4066,
+      "latex_words": 4131,
       "floor": 3000,
       "max": 4000,
       "percent_of_floor": 144.0
     }
   ],
   "latex": {
-    "total_prose": 28882,
-    "total_words": 32099,
+    "total_prose": 29345,
+    "total_words": 32586,
     "target": 30000,
-    "percent_of_target": 107.0
+    "percent_of_target": 108.6
   },
   "history": [
     {
@@ -5327,7 +5327,7 @@
       "hard_end": "2026-10-05",
       "projected": 489,
       "has_data": true,
-      "generated_at": "2026-10-06T17:55:12+13:00",
+      "generated_at": "2026-10-06T18:10:09+13:00",
       "source": "sheet"
     }
   }
