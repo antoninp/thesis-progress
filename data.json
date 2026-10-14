@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-10-14T01:28:20+00:00",
-  "generated_at_nz": "2026-10-14T14:25:20+13:00",
+  "generated_at_utc": "2026-10-14T01:42:55+00:00",
+  "generated_at_nz": "2026-10-14T14:40:16+13:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -78,9 +78,9 @@
     "hours_total": 378.6,
     "hours_this_week": 5.6,
     "words_per_hour": 78,
-    "hours_latex_total": 48.6,
-    "hours_system_total": 310.8,
-    "hours_combined_total": 527.7
+    "hours_latex_total": 48.8,
+    "hours_system_total": 311.1,
+    "hours_combined_total": 528.0
   },
   "chapters": [
     {
@@ -90,9 +90,9 @@
       "citations": 287,
       "render_words": 947,
       "words": 6883,
-      "latex_prose": 5955,
+      "latex_prose": 5929,
       "latex_render": 888,
-      "latex_words": 6843,
+      "latex_words": 6817,
       "floor": 4000,
       "max": 5000,
       "percent_of_floor": 172.1
@@ -104,9 +104,9 @@
       "citations": 479,
       "render_words": 1581,
       "words": 9634,
-      "latex_prose": 8043,
-      "latex_render": 1343,
-      "latex_words": 9386,
+      "latex_prose": 8037,
+      "latex_render": 1333,
+      "latex_words": 9370,
       "floor": 8000,
       "max": 10000,
       "percent_of_floor": 120.4
@@ -118,9 +118,9 @@
       "citations": 188,
       "render_words": 620,
       "words": 5063,
-      "latex_prose": 4412,
-      "latex_render": 485,
-      "latex_words": 4897,
+      "latex_prose": 4410,
+      "latex_render": 475,
+      "latex_words": 4885,
       "floor": 5000,
       "max": 6000,
       "percent_of_floor": 101.3
@@ -132,9 +132,9 @@
       "citations": 214,
       "render_words": 706,
       "words": 7474,
-      "latex_prose": 6483,
+      "latex_prose": 6477,
       "latex_render": 228,
-      "latex_words": 6711,
+      "latex_words": 6705,
       "floor": 8000,
       "max": 10000,
       "percent_of_floor": 93.4
@@ -155,10 +155,10 @@
     }
   ],
   "latex": {
-    "total_prose": 29091,
-    "total_words": 32051,
+    "total_prose": 29051,
+    "total_words": 31991,
     "target": 30000,
-    "percent_of_target": 106.8
+    "percent_of_target": 106.6
   },
   "history": [
     {
@@ -4276,7 +4276,7 @@
     },
     {
       "date": "2026-10-14",
-      "hours": 2.23
+      "hours": 2.48
     }
   ],
   "daily_hours_system": [
@@ -4846,7 +4846,7 @@
     },
     {
       "date": "2026-10-14",
-      "hours": 3.44
+      "hours": 3.69
     }
   ],
   "daily_hours_combined": [
@@ -5416,7 +5416,7 @@
     },
     {
       "date": "2026-10-14",
-      "hours": 3.77
+      "hours": 4.04
     }
   ],
   "timeline": [
@@ -5623,7 +5623,7 @@
       "hard_end": "2026-10-05",
       "projected": 489,
       "has_data": true,
-      "generated_at": "2026-10-14T14:25:40+13:00",
+      "generated_at": "2026-10-14T14:40:23+13:00",
       "source": "sheet"
     }
   }
