@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-10-16T07:55:32+00:00",
-  "generated_at_nz": "2026-10-16T20:55:04+13:00",
+  "generated_at_utc": "2026-10-16T18:40:56+00:00",
+  "generated_at_nz": "2026-10-17T07:40:08+13:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -32,15 +32,15 @@
     "final_remaining": 0,
     "prose_target": 26360,
     "prose_target_high": 30754,
-    "days_to_supervisor": 0,
-    "days_to_supervisor_full": 14,
-    "days_to_final": 28,
+    "days_to_supervisor": -1,
+    "days_to_supervisor_full": 13,
+    "days_to_final": 27,
     "required_wpw_supervisor": null,
     "required_wpw_final": 0,
-    "velocity_7d_wpw": -3,
-    "velocity_14d_wpw": 857,
+    "velocity_7d_wpw": -90,
+    "velocity_14d_wpw": 333,
     "velocity_28d_wpw": 1432,
-    "velocity_overall_wpw": 1436,
+    "velocity_overall_wpw": 1426,
     "writing_start": "2026-05-26",
     "projected_finish": null,
     "projected_finish_overall": null,
@@ -55,18 +55,18 @@
     "plan_expected_today": 26360,
     "behind_words": 2985,
     "behind_days": 19.5,
-    "plan_catchup_date": "2026-10-16",
+    "plan_catchup_date": "2026-10-17",
     "plan_catchup_words": 29345,
-    "plan_catchup_date_7d": "2026-10-16",
+    "plan_catchup_date_7d": "2026-10-17",
     "plan_catchup_words_7d": 29345,
-    "plan_catchup_date_overall": "2026-10-16",
+    "plan_catchup_date_overall": "2026-10-17",
     "plan_catchup_words_overall": 29345,
     "this_week_added": -90,
-    "today_added": -55,
+    "today_added": 0,
     "this_week_goal": 1300,
     "this_week_percent": -7,
     "week_start": "2026-10-12",
-    "plan_chapter": "ch5 Conclusions",
+    "plan_chapter": null,
     "current_chapter": null,
     "all_chapters_done": true,
     "current_phase": "Revise thesis",
@@ -1888,6 +1888,18 @@
         "ch4": 7479,
         "ch5": 4410
       }
+    },
+    {
+      "date": "2026-10-17",
+      "prose": 29345,
+      "final": 33397,
+      "chapters": {
+        "ch1": 6812,
+        "ch2": 9634,
+        "ch3": 5062,
+        "ch4": 7479,
+        "ch5": 4410
+      }
     }
   ],
   "daily_added": [
@@ -2462,6 +2474,10 @@
     {
       "date": "2026-10-16",
       "added": -55
+    },
+    {
+      "date": "2026-10-17",
+      "added": 0
     }
   ],
   "daily_churn": [
@@ -3179,6 +3195,11 @@
       "date": "2026-10-16",
       "added": 2,
       "removed": 57
+    },
+    {
+      "date": "2026-10-17",
+      "added": 0,
+      "removed": 0
     }
   ],
   "daily_hours": [
@@ -3757,6 +3778,10 @@
     {
       "date": "2026-10-16",
       "hours": 1.0
+    },
+    {
+      "date": "2026-10-17",
+      "hours": 0.0
     }
   ],
   "daily_hours_latex": [
@@ -4335,6 +4360,10 @@
     {
       "date": "2026-10-16",
       "hours": 2.36
+    },
+    {
+      "date": "2026-10-17",
+      "hours": 0.0
     }
   ],
   "daily_hours_system": [
@@ -4913,6 +4942,10 @@
     {
       "date": "2026-10-16",
       "hours": 3.31
+    },
+    {
+      "date": "2026-10-17",
+      "hours": 0.0
     }
   ],
   "daily_hours_combined": [
@@ -5491,6 +5524,10 @@
     {
       "date": "2026-10-16",
       "hours": 3.38
+    },
+    {
+      "date": "2026-10-17",
+      "hours": 0.0
     }
   ],
   "timeline": [
@@ -5640,7 +5677,7 @@
       "type": "bar",
       "start": "2026-10-16",
       "planned_end": "2026-10-30",
-      "end": "2026-10-16",
+      "end": "2026-10-17",
       "actual_start": "2026-10-06",
       "status": "in_progress"
     },
@@ -5684,12 +5721,12 @@
       "closed": true,
       "close": "2026-09-07 13:03",
       "excluded_after_close": 38,
-      "days_left": -39,
-      "days_to_hard": -11,
+      "days_left": -40,
+      "days_to_hard": -12,
       "start": "2026-05-29",
       "end": "2026-09-07",
       "pace_per_day": null,
-      "avg_per_day": 5.2,
+      "avg_per_day": 5.1,
       "needed_per_day": null,
       "needed_per_day_floor": null,
       "best_day": 92,
@@ -5697,7 +5734,7 @@
       "hard_end": "2026-10-05",
       "projected": 489,
       "has_data": true,
-      "generated_at": "2026-10-16T20:55:08+13:00",
+      "generated_at": "2026-10-17T07:40:14+13:00",
       "source": "sheet"
     }
   }
