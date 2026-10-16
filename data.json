@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-10-16T04:56:28+00:00",
-  "generated_at_nz": "2026-10-16T17:55:07+13:00",
+  "generated_at_utc": "2026-10-16T05:12:47+00:00",
+  "generated_at_nz": "2026-10-16T18:10:18+13:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -78,9 +78,9 @@
     "hours_total": 380.3,
     "hours_this_week": 7.3,
     "words_per_hour": 77,
-    "hours_latex_total": 51.8,
-    "hours_system_total": 315.2,
-    "hours_combined_total": 532.6
+    "hours_latex_total": 52.0,
+    "hours_system_total": 315.5,
+    "hours_combined_total": 532.9
   },
   "chapters": [
     {
@@ -90,9 +90,9 @@
       "citations": 287,
       "render_words": 947,
       "words": 6883,
-      "latex_prose": 5927,
-      "latex_render": 888,
-      "latex_words": 6815,
+      "latex_prose": 5929,
+      "latex_render": 858,
+      "latex_words": 6787,
       "floor": 4000,
       "max": 5000,
       "percent_of_floor": 172.1
@@ -105,8 +105,8 @@
       "render_words": 1581,
       "words": 9634,
       "latex_prose": 8037,
-      "latex_render": 1333,
-      "latex_words": 9370,
+      "latex_render": 1208,
+      "latex_words": 9245,
       "floor": 8000,
       "max": 10000,
       "percent_of_floor": 120.4
@@ -118,9 +118,9 @@
       "citations": 188,
       "render_words": 620,
       "words": 5062,
-      "latex_prose": 4408,
-      "latex_render": 475,
-      "latex_words": 4883,
+      "latex_prose": 4409,
+      "latex_render": 469,
+      "latex_words": 4878,
       "floor": 5000,
       "max": 6000,
       "percent_of_floor": 101.2
@@ -132,9 +132,9 @@
       "citations": 214,
       "render_words": 706,
       "words": 7479,
-      "latex_prose": 6477,
-      "latex_render": 228,
-      "latex_words": 6705,
+      "latex_prose": 6482,
+      "latex_render": 178,
+      "latex_words": 6660,
       "floor": 8000,
       "max": 10000,
       "percent_of_floor": 93.5
@@ -147,18 +147,18 @@
       "render_words": 214,
       "words": 4410,
       "latex_prose": 4196,
-      "latex_render": 16,
-      "latex_words": 4212,
+      "latex_render": 7,
+      "latex_words": 4203,
       "floor": 3000,
       "max": 4000,
       "percent_of_floor": 147.0
     }
   ],
   "latex": {
-    "total_prose": 29045,
-    "total_words": 31985,
+    "total_prose": 29053,
+    "total_words": 31773,
     "target": 30000,
-    "percent_of_target": 106.6
+    "percent_of_target": 105.9
   },
   "history": [
     {
@@ -4334,7 +4334,7 @@
     },
     {
       "date": "2026-10-16",
-      "hours": 0.49
+      "hours": 0.74
     }
   ],
   "daily_hours_system": [
@@ -4912,7 +4912,7 @@
     },
     {
       "date": "2026-10-16",
-      "hours": 0.74
+      "hours": 0.99
     }
   ],
   "daily_hours_combined": [
@@ -5490,7 +5490,7 @@
     },
     {
       "date": "2026-10-16",
-      "hours": 0.74
+      "hours": 1.0
     }
   ],
   "timeline": [
@@ -5697,7 +5697,7 @@
       "hard_end": "2026-10-05",
       "projected": 489,
       "has_data": true,
-      "generated_at": "2026-10-16T17:55:12+13:00",
+      "generated_at": "2026-10-16T18:10:34+13:00",
       "source": "sheet"
     }
   }
