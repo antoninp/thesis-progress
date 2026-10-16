@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-10-16T21:25:40+00:00",
-  "generated_at_nz": "2026-10-17T10:25:04+13:00",
+  "generated_at_utc": "2026-10-16T21:40:38+00:00",
+  "generated_at_nz": "2026-10-17T10:40:04+13:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -86,10 +86,10 @@
     {
       "key": "ch1",
       "title": "Introduction",
-      "prose_words": 5881,
+      "prose_words": 5883,
       "citations": 282,
       "render_words": 931,
-      "words": 6812,
+      "words": 6814,
       "latex_prose": 5871,
       "latex_render": 842,
       "latex_words": 6713,
@@ -100,10 +100,10 @@
     {
       "key": "ch2",
       "title": "Literature Review",
-      "prose_words": 8053,
+      "prose_words": 8051,
       "citations": 479,
       "render_words": 1581,
-      "words": 9634,
+      "words": 9632,
       "latex_prose": 8035,
       "latex_render": 1208,
       "latex_words": 9243,
@@ -1894,8 +1894,8 @@
       "prose": 29345,
       "final": 33397,
       "chapters": {
-        "ch1": 6812,
-        "ch2": 9634,
+        "ch1": 6814,
+        "ch2": 9632,
         "ch3": 5062,
         "ch4": 7479,
         "ch5": 4410
@@ -5734,7 +5734,7 @@
       "hard_end": "2026-10-05",
       "projected": 489,
       "has_data": true,
-      "generated_at": "2026-10-17T10:25:09+13:00",
+      "generated_at": "2026-10-17T10:40:09+13:00",
       "source": "sheet"
     }
   }
