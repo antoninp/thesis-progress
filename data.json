@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-10-16T05:58:41+00:00",
-  "generated_at_nz": "2026-10-16T18:52:37+13:00",
+  "generated_at_utc": "2026-10-16T06:17:52+00:00",
+  "generated_at_nz": "2026-10-16T19:10:31+13:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -3178,7 +3178,7 @@
     {
       "date": "2026-10-16",
       "added": 0,
-      "removed": 0
+      "removed": 55
     }
   ],
   "daily_hours": [
@@ -5697,7 +5697,7 @@
       "hard_end": "2026-10-05",
       "projected": 489,
       "has_data": true,
-      "generated_at": "2026-10-16T18:52:50+13:00",
+      "generated_at": "2026-10-16T19:10:58+13:00",
       "source": "sheet"
     }
   }
