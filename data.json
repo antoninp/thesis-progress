@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-10-17T07:56:22+00:00",
-  "generated_at_nz": "2026-10-17T20:55:09+13:00",
+  "generated_at_utc": "2026-10-17T08:07:32+00:00",
+  "generated_at_nz": "2026-10-17T21:06:49+13:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -5734,7 +5734,7 @@
       "start": "2026-05-29",
       "end": "2026-09-07",
       "pace_per_day": null,
-      "avg_per_day": 5.1,
+      "avg_per_day": 8.9,
       "needed_per_day": null,
       "needed_per_day_floor": null,
       "best_day": 92,
