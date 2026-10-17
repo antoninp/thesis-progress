@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-10-17T07:26:22+00:00",
-  "generated_at_nz": "2026-10-17T20:25:08+13:00",
+  "generated_at_utc": "2026-10-17T07:42:33+00:00",
+  "generated_at_nz": "2026-10-17T20:40:27+13:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -75,12 +75,12 @@
     "chapter_schedule": "ahead",
     "chapters_behind": null,
     "current_chapter_days_late": null,
-    "hours_total": 386.0,
-    "hours_this_week": 13.1,
+    "hours_total": 386.3,
+    "hours_this_week": 13.3,
     "words_per_hour": 74,
-    "hours_latex_total": 55.1,
-    "hours_system_total": 323.8,
-    "hours_combined_total": 542.6
+    "hours_latex_total": 55.4,
+    "hours_system_total": 324.0,
+    "hours_combined_total": 542.9
   },
   "chapters": [
     {
@@ -104,9 +104,9 @@
       "citations": 438,
       "render_words": 1445,
       "words": 8959,
-      "latex_prose": 8033,
-      "latex_render": 1208,
-      "latex_words": 9241,
+      "latex_prose": 7497,
+      "latex_render": 1079,
+      "latex_words": 8576,
       "floor": 8000,
       "max": 10000,
       "percent_of_floor": 112.0
@@ -155,10 +155,10 @@
     }
   ],
   "latex": {
-    "total_prose": 28651,
-    "total_words": 31312,
+    "total_prose": 28115,
+    "total_words": 30647,
     "target": 30000,
-    "percent_of_target": 104.4
+    "percent_of_target": 102.2
   },
   "history": [
     {
@@ -3198,8 +3198,8 @@
     },
     {
       "date": "2026-10-17",
-      "added": 227,
-      "removed": 1101
+      "added": 246,
+      "removed": 1121
     }
   ],
   "daily_hours": [
@@ -3781,7 +3781,7 @@
     },
     {
       "date": "2026-10-17",
-      "hours": 4.74
+      "hours": 4.99
     }
   ],
   "daily_hours_latex": [
@@ -4363,7 +4363,7 @@
     },
     {
       "date": "2026-10-17",
-      "hours": 1.5
+      "hours": 1.75
     }
   ],
   "daily_hours_system": [
@@ -4945,7 +4945,7 @@
     },
     {
       "date": "2026-10-17",
-      "hours": 5.96
+      "hours": 6.21
     }
   ],
   "daily_hours_combined": [
@@ -5527,7 +5527,7 @@
     },
     {
       "date": "2026-10-17",
-      "hours": 7.37
+      "hours": 7.64
     }
   ],
   "timeline": [
@@ -5742,7 +5742,7 @@
       "hard_end": "2026-10-05",
       "projected": 489,
       "has_data": true,
-      "generated_at": "2026-10-17T20:25:13+13:00",
+      "generated_at": "2026-10-17T20:40:43+13:00",
       "source": "sheet"
     }
   }
