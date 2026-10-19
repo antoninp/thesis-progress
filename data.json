@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-10-19T00:25:41+00:00",
-  "generated_at_nz": "2026-10-19T13:25:07+13:00",
+  "generated_at_utc": "2026-10-19T00:43:33+00:00",
+  "generated_at_nz": "2026-10-19T13:40:52+13:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -75,12 +75,12 @@
     "chapter_schedule": "ahead",
     "chapters_behind": null,
     "current_chapter_days_late": null,
-    "hours_total": 387.3,
-    "hours_this_week": 1.0,
+    "hours_total": 387.5,
+    "hours_this_week": 1.2,
     "words_per_hour": 74,
-    "hours_latex_total": 57.6,
-    "hours_system_total": 326.9,
-    "hours_combined_total": 546.1
+    "hours_latex_total": 57.8,
+    "hours_system_total": 327.2,
+    "hours_combined_total": 546.4
   },
   "chapters": [
     {
@@ -132,9 +132,9 @@
       "citations": 214,
       "render_words": 706,
       "words": 7482,
-      "latex_prose": 6480,
+      "latex_prose": 6483,
       "latex_render": 178,
-      "latex_words": 6658,
+      "latex_words": 6661,
       "floor": 8000,
       "max": 10000,
       "percent_of_floor": 93.5
@@ -155,8 +155,8 @@
     }
   ],
   "latex": {
-    "total_prose": 28183,
-    "total_words": 30715,
+    "total_prose": 28186,
+    "total_words": 30718,
     "target": 30000,
     "percent_of_target": 102.4
   },
@@ -3240,8 +3240,8 @@
     },
     {
       "date": "2026-10-19",
-      "added": 73,
-      "removed": 5
+      "added": 78,
+      "removed": 7
     }
   ],
   "daily_hours": [
@@ -3831,7 +3831,7 @@
     },
     {
       "date": "2026-10-19",
-      "hours": 1.0
+      "hours": 1.25
     }
   ],
   "daily_hours_latex": [
@@ -4421,7 +4421,7 @@
     },
     {
       "date": "2026-10-19",
-      "hours": 1.95
+      "hours": 2.2
     }
   ],
   "daily_hours_system": [
@@ -5011,7 +5011,7 @@
     },
     {
       "date": "2026-10-19",
-      "hours": 2.42
+      "hours": 2.67
     }
   ],
   "daily_hours_combined": [
@@ -5601,7 +5601,7 @@
     },
     {
       "date": "2026-10-19",
-      "hours": 2.69
+      "hours": 2.96
     }
   ],
   "timeline": [
