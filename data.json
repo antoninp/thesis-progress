@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-10-19T00:53:11+00:00",
-  "generated_at_nz": "2026-10-19T13:52:34+13:00",
+  "generated_at_utc": "2026-10-19T01:25:44+00:00",
+  "generated_at_nz": "2026-10-19T14:25:11+13:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -79,8 +79,8 @@
     "hours_this_week": 1.2,
     "words_per_hour": 74,
     "hours_latex_total": 58.1,
-    "hours_system_total": 327.4,
-    "hours_combined_total": 546.6
+    "hours_system_total": 327.7,
+    "hours_combined_total": 546.9
   },
   "chapters": [
     {
@@ -5011,7 +5011,7 @@
     },
     {
       "date": "2026-10-19",
-      "hours": 2.92
+      "hours": 3.17
     }
   ],
   "daily_hours_combined": [
@@ -5601,7 +5601,7 @@
     },
     {
       "date": "2026-10-19",
-      "hours": 3.22
+      "hours": 3.47
     }
   ],
   "timeline": [
