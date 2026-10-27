@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-10-27T02:30:36+00:00",
-  "generated_at_nz": "2026-10-27T15:25:08+13:00",
+  "generated_at_utc": "2026-10-27T02:59:19+00:00",
+  "generated_at_nz": "2026-10-27T15:57:20+13:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -79,8 +79,8 @@
     "hours_this_week": 0,
     "words_per_hour": 74,
     "hours_latex_total": 59.1,
-    "hours_system_total": 340.6,
-    "hours_combined_total": 560.5
+    "hours_system_total": 340.8,
+    "hours_combined_total": 560.8
   },
   "chapters": [
     {
@@ -5275,7 +5275,7 @@
     },
     {
       "date": "2026-10-27",
-      "hours": 0.25
+      "hours": 0.5
     }
   ],
   "daily_hours_combined": [
@@ -5897,7 +5897,7 @@
     },
     {
       "date": "2026-10-27",
-      "hours": 0.25
+      "hours": 0.5
     }
   ],
   "timeline": [
@@ -6057,6 +6057,14 @@
       "start": "2026-10-16",
       "planned_end": "2026-10-16",
       "end": "2026-10-16",
+      "status": "done"
+    },
+    {
+      "label": "Revision 2 to supervisor",
+      "type": "milestone",
+      "start": "2026-10-22",
+      "planned_end": "2026-10-22",
+      "end": "2026-10-22",
       "status": "done"
     },
     {
