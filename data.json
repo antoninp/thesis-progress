@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-10-28T21:55:37+00:00",
-  "generated_at_nz": "2026-10-29T10:55:06+13:00",
+  "generated_at_utc": "2026-10-28T22:11:00+00:00",
+  "generated_at_nz": "2026-10-29T11:10:11+13:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -23,24 +23,24 @@
     "chapter_max": 10000
   },
   "totals": {
-    "words": 28808,
-    "final_words": 32698,
+    "words": 28800,
+    "final_words": 32690,
     "inflation_ratio": 1.135,
     "percent_of_target": 109.0,
     "percent_final_of_30k": 109.0,
     "words_remaining": 0,
     "final_remaining": 0,
-    "prose_target": 26431,
-    "prose_target_high": 30836,
+    "prose_target": 26430,
+    "prose_target_high": 30835,
     "days_to_supervisor": -13,
     "days_to_supervisor_full": 1,
     "days_to_final": 15,
     "required_wpw_supervisor": null,
     "required_wpw_final": 0,
-    "velocity_7d_wpw": 27,
-    "velocity_14d_wpw": -296,
-    "velocity_28d_wpw": 341,
-    "velocity_overall_wpw": 1293,
+    "velocity_7d_wpw": 19,
+    "velocity_14d_wpw": -300,
+    "velocity_28d_wpw": 339,
+    "velocity_overall_wpw": 1292,
     "writing_start": "2026-05-26",
     "projected_finish": null,
     "projected_finish_overall": null,
@@ -52,19 +52,19 @@
     "on_track": false,
     "verdict": "target_reached",
     "plan_start": "2026-04-27",
-    "plan_expected_today": 26431,
-    "behind_words": 2377,
-    "behind_days": 15.5,
+    "plan_expected_today": 26430,
+    "behind_words": 2370,
+    "behind_days": 15.4,
     "plan_catchup_date": "2026-10-29",
-    "plan_catchup_words": 28808,
+    "plan_catchup_words": 28800,
     "plan_catchup_date_7d": "2026-10-29",
-    "plan_catchup_words_7d": 28808,
+    "plan_catchup_words_7d": 28800,
     "plan_catchup_date_overall": "2026-10-29",
-    "plan_catchup_words_overall": 28808,
-    "this_week_added": 27,
-    "today_added": 2,
+    "plan_catchup_words_overall": 28800,
+    "this_week_added": 19,
+    "today_added": -6,
     "this_week_goal": 1300,
-    "this_week_percent": 2,
+    "this_week_percent": 1,
     "week_start": "2026-10-26",
     "plan_chapter": null,
     "current_chapter": null,
@@ -75,27 +75,27 @@
     "chapter_schedule": "ahead",
     "chapters_behind": null,
     "current_chapter_days_late": null,
-    "hours_total": 392.2,
-    "hours_this_week": 1.9,
+    "hours_total": 392.5,
+    "hours_this_week": 2.2,
     "words_per_hour": 73,
-    "hours_latex_total": 59.3,
+    "hours_latex_total": 59.6,
     "hours_system_total": 341.6,
-    "hours_combined_total": 563.5
+    "hours_combined_total": 563.7
   },
   "chapters": [
     {
       "key": "ch1",
       "title": "Introduction",
-      "prose_words": 5614,
+      "prose_words": 5606,
       "citations": 270,
       "render_words": 891,
-      "words": 6505,
+      "words": 6497,
       "latex_prose": 5602,
       "latex_render": 799,
       "latex_words": 6401,
       "floor": 4000,
       "max": 5000,
-      "percent_of_floor": 162.6
+      "percent_of_floor": 162.4
     },
     {
       "key": "ch2",
@@ -2035,10 +2035,10 @@
     },
     {
       "date": "2026-10-29",
-      "prose": 28808,
-      "final": 32698,
+      "prose": 28800,
+      "final": 32690,
       "chapters": {
-        "ch1": 6505,
+        "ch1": 6497,
         "ch2": 8959,
         "ch3": 5062,
         "ch4": 7588,
@@ -2669,7 +2669,7 @@
     },
     {
       "date": "2026-10-29",
-      "added": 2
+      "added": -6
     }
   ],
   "daily_churn": [
@@ -3450,8 +3450,8 @@
     },
     {
       "date": "2026-10-29",
-      "added": 0,
-      "removed": 0
+      "added": 17,
+      "removed": 15
     }
   ],
   "daily_hours": [
@@ -4081,7 +4081,7 @@
     },
     {
       "date": "2026-10-29",
-      "hours": 0.0
+      "hours": 0.25
     }
   ],
   "daily_hours_latex": [
@@ -4711,7 +4711,7 @@
     },
     {
       "date": "2026-10-29",
-      "hours": 0.25
+      "hours": 0.5
     }
   ],
   "daily_hours_system": [
@@ -5971,7 +5971,7 @@
     },
     {
       "date": "2026-10-29",
-      "hours": 0.26
+      "hours": 0.51
     }
   ],
   "timeline": [
