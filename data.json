@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-10-28T03:25:44+00:00",
-  "generated_at_nz": "2026-10-28T16:25:05+13:00",
+  "generated_at_utc": "2026-10-28T03:40:43+00:00",
+  "generated_at_nz": "2026-10-28T16:40:07+13:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -23,8 +23,8 @@
     "chapter_max": 10000
   },
   "totals": {
-    "words": 28807,
-    "final_words": 32697,
+    "words": 28805,
+    "final_words": 32695,
     "inflation_ratio": 1.135,
     "percent_of_target": 109.0,
     "percent_final_of_30k": 109.0,
@@ -37,9 +37,9 @@
     "days_to_final": 16,
     "required_wpw_supervisor": null,
     "required_wpw_final": 0,
-    "velocity_7d_wpw": 26,
-    "velocity_14d_wpw": -294,
-    "velocity_28d_wpw": 394,
+    "velocity_7d_wpw": 24,
+    "velocity_14d_wpw": -296,
+    "velocity_28d_wpw": 393,
     "velocity_overall_wpw": 1301,
     "writing_start": "2026-05-26",
     "projected_finish": null,
@@ -53,16 +53,16 @@
     "verdict": "target_reached",
     "plan_start": "2026-04-27",
     "plan_expected_today": 26431,
-    "behind_words": 2376,
-    "behind_days": 15.5,
+    "behind_words": 2374,
+    "behind_days": 15.4,
     "plan_catchup_date": "2026-10-28",
-    "plan_catchup_words": 28807,
+    "plan_catchup_words": 28805,
     "plan_catchup_date_7d": "2026-10-28",
-    "plan_catchup_words_7d": 28807,
+    "plan_catchup_words_7d": 28805,
     "plan_catchup_date_overall": "2026-10-28",
-    "plan_catchup_words_overall": 28807,
-    "this_week_added": 26,
-    "today_added": 26,
+    "plan_catchup_words_overall": 28805,
+    "this_week_added": 24,
+    "today_added": 24,
     "this_week_goal": 1300,
     "this_week_percent": 2,
     "week_start": "2026-10-26",
@@ -86,16 +86,16 @@
     {
       "key": "ch1",
       "title": "Introduction",
-      "prose_words": 5613,
+      "prose_words": 5611,
       "citations": 270,
       "render_words": 891,
-      "words": 6504,
+      "words": 6502,
       "latex_prose": 5602,
       "latex_render": 799,
       "latex_words": 6401,
       "floor": 4000,
       "max": 5000,
-      "percent_of_floor": 162.6
+      "percent_of_floor": 162.5
     },
     {
       "key": "ch2",
@@ -2023,10 +2023,10 @@
     },
     {
       "date": "2026-10-28",
-      "prose": 28807,
-      "final": 32697,
+      "prose": 28805,
+      "final": 32695,
       "chapters": {
-        "ch1": 6504,
+        "ch1": 6502,
         "ch2": 8959,
         "ch3": 5062,
         "ch4": 7588,
@@ -2653,7 +2653,7 @@
     },
     {
       "date": "2026-10-28",
-      "added": 26
+      "added": 24
     }
   ],
   "daily_churn": [
