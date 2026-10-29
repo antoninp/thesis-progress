@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-10-29T02:25:56+00:00",
-  "generated_at_nz": "2026-10-29T15:25:11+13:00",
+  "generated_at_utc": "2026-10-29T02:44:51+00:00",
+  "generated_at_nz": "2026-10-29T15:41:17+13:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -75,12 +75,12 @@
     "chapter_schedule": "ahead",
     "chapters_behind": null,
     "current_chapter_days_late": null,
-    "hours_total": 395.4,
-    "hours_this_week": 5.1,
+    "hours_total": 395.7,
+    "hours_this_week": 5.4,
     "words_per_hour": 73,
-    "hours_latex_total": 59.6,
+    "hours_latex_total": 59.8,
     "hours_system_total": 343.4,
-    "hours_combined_total": 567.6
+    "hours_combined_total": 567.9
   },
   "chapters": [
     {
@@ -90,9 +90,9 @@
       "citations": 270,
       "render_words": 891,
       "words": 6519,
-      "latex_prose": 5602,
-      "latex_render": 799,
-      "latex_words": 6401,
+      "latex_prose": 5616,
+      "latex_render": 795,
+      "latex_words": 6411,
       "floor": 4000,
       "max": 5000,
       "percent_of_floor": 163.0
@@ -104,9 +104,9 @@
       "citations": 438,
       "render_words": 1445,
       "words": 8965,
-      "latex_prose": 7497,
+      "latex_prose": 7503,
       "latex_render": 1079,
-      "latex_words": 8576,
+      "latex_words": 8582,
       "floor": 8000,
       "max": 10000,
       "percent_of_floor": 112.1
@@ -118,9 +118,9 @@
       "citations": 188,
       "render_words": 620,
       "words": 5063,
-      "latex_prose": 4409,
+      "latex_prose": 4410,
       "latex_render": 469,
-      "latex_words": 4878,
+      "latex_words": 4879,
       "floor": 5000,
       "max": 6000,
       "percent_of_floor": 101.3
@@ -146,19 +146,19 @@
       "citations": 67,
       "render_words": 221,
       "words": 4582,
-      "latex_prose": 4336,
+      "latex_prose": 4361,
       "latex_render": 7,
-      "latex_words": 4343,
+      "latex_words": 4368,
       "floor": 3000,
       "max": 4000,
       "percent_of_floor": 152.7
     }
   ],
   "latex": {
-    "total_prose": 28426,
-    "total_words": 30962,
+    "total_prose": 28472,
+    "total_words": 31004,
     "target": 30000,
-    "percent_of_target": 103.2
+    "percent_of_target": 103.3
   },
   "history": [
     {
@@ -3450,8 +3450,8 @@
     },
     {
       "date": "2026-10-29",
-      "added": 204,
-      "removed": 183
+      "added": 208,
+      "removed": 187
     }
   ],
   "daily_hours": [
@@ -4081,7 +4081,7 @@
     },
     {
       "date": "2026-10-29",
-      "hours": 3.21
+      "hours": 3.46
     }
   ],
   "daily_hours_latex": [
@@ -4711,7 +4711,7 @@
     },
     {
       "date": "2026-10-29",
-      "hours": 0.5
+      "hours": 0.75
     }
   ],
   "daily_hours_system": [
@@ -5971,7 +5971,7 @@
     },
     {
       "date": "2026-10-29",
-      "hours": 4.39
+      "hours": 4.65
     }
   ],
   "timeline": [
