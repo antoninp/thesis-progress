@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-10-29T23:46:47+00:00",
-  "generated_at_nz": "2026-10-30T12:44:34+13:00",
+  "generated_at_utc": "2026-10-29T23:55:21+00:00",
+  "generated_at_nz": "2026-10-30T12:52:45+13:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -3471,8 +3471,8 @@
     },
     {
       "date": "2026-10-30",
-      "added": 44,
-      "removed": 72
+      "added": 38,
+      "removed": 67
     }
   ],
   "daily_hours": [
