@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-10-29T02:44:51+00:00",
-  "generated_at_nz": "2026-10-29T15:41:17+13:00",
+  "generated_at_utc": "2026-10-29T02:59:26+00:00",
+  "generated_at_nz": "2026-10-29T15:52:40+13:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -75,12 +75,12 @@
     "chapter_schedule": "ahead",
     "chapters_behind": null,
     "current_chapter_days_late": null,
-    "hours_total": 395.7,
-    "hours_this_week": 5.4,
+    "hours_total": 395.9,
+    "hours_this_week": 5.6,
     "words_per_hour": 73,
-    "hours_latex_total": 59.8,
-    "hours_system_total": 343.4,
-    "hours_combined_total": 567.9
+    "hours_latex_total": 60.1,
+    "hours_system_total": 343.7,
+    "hours_combined_total": 568.3
   },
   "chapters": [
     {
@@ -4081,7 +4081,7 @@
     },
     {
       "date": "2026-10-29",
-      "hours": 3.46
+      "hours": 3.71
     }
   ],
   "daily_hours_latex": [
@@ -4711,7 +4711,7 @@
     },
     {
       "date": "2026-10-29",
-      "hours": 0.75
+      "hours": 1.0
     }
   ],
   "daily_hours_system": [
@@ -5341,7 +5341,7 @@
     },
     {
       "date": "2026-10-29",
-      "hours": 2.12
+      "hours": 2.37
     }
   ],
   "daily_hours_combined": [
@@ -5971,7 +5971,7 @@
     },
     {
       "date": "2026-10-29",
-      "hours": 4.65
+      "hours": 5.07
     }
   ],
   "timeline": [
