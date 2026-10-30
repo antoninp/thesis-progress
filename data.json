@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-10-30T01:10:41+00:00",
-  "generated_at_nz": "2026-10-30T14:10:04+13:00",
+  "generated_at_utc": "2026-10-30T03:12:30+00:00",
+  "generated_at_nz": "2026-10-30T16:10:18+13:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -90,9 +90,9 @@
       "citations": 268,
       "render_words": 884,
       "words": 6483,
-      "latex_prose": 5616,
-      "latex_render": 795,
-      "latex_words": 6411,
+      "latex_prose": 5587,
+      "latex_render": 789,
+      "latex_words": 6376,
       "floor": 4000,
       "max": 5000,
       "percent_of_floor": 162.1
@@ -155,10 +155,10 @@
     }
   ],
   "latex": {
-    "total_prose": 28472,
-    "total_words": 31004,
+    "total_prose": 28443,
+    "total_words": 30969,
     "target": 30000,
-    "percent_of_target": 103.3
+    "percent_of_target": 103.2
   },
   "history": [
     {
