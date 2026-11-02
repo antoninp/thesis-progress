@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "generated_at_utc": "2026-11-02T00:08:39+00:00",
-  "generated_at_nz": "2026-11-02T13:07:26+13:00",
+  "generated_at_utc": "2026-11-02T00:35:11+00:00",
+  "generated_at_nz": "2026-11-02T13:34:31+13:00",
   "targets": {
     "total": 30000,
     "range": [
@@ -69,7 +69,7 @@
     "plan_chapter": null,
     "current_chapter": null,
     "all_chapters_done": true,
-    "current_phase": "Revise thesis",
+    "current_phase": "Final checks",
     "drafting_days_early": 11,
     "all_chapters_done_date": "2026-10-05",
     "chapter_schedule": "ahead",
@@ -6269,9 +6269,9 @@
       "type": "bar",
       "start": "2026-10-16",
       "planned_end": "2026-10-30",
-      "end": "2026-11-02",
+      "end": "2026-10-30",
       "actual_start": "2026-10-06",
-      "status": "overdue"
+      "status": "done"
     },
     {
       "label": "Revision 1 to supervisor",
@@ -6295,16 +6295,24 @@
       "start": "2026-10-30",
       "planned_end": "2026-10-30",
       "end": "2026-10-30",
-      "status": "todo"
+      "status": "done"
     },
     {
-      "label": "Final changes",
+      "label": "Supervisor approval",
+      "type": "milestone",
+      "start": "2026-11-02",
+      "planned_end": "2026-11-02",
+      "end": "2026-11-02",
+      "status": "done"
+    },
+    {
+      "label": "Final checks",
       "type": "bar",
-      "start": "2026-11-07",
+      "start": "2026-11-02",
       "planned_end": "2026-11-13",
-      "end": "2026-11-13",
+      "end": "2026-11-02",
       "actual_start": null,
-      "status": "todo"
+      "status": "in_progress"
     },
     {
       "label": "Final Submission",
